@@ -1,0 +1,372 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/default.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="30"/>
+<meta name="description" content="">
+<meta name="author" content="">
+<link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../assets/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../assets/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../assets/ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="../../assets/ico/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="assets/ico/favicon.ico" type="image/x-icon">
+<!-- InstanceBeginEditable name="head" -->
+<style>
+ body{
+	 background-image:url(assets/img/wood.jpg);
+ }
+ .modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 100%;
+  left: 0;
+  margin-left:auto;
+  margin-right:auto;
+  width: 70%;
+  height: 70%;
+}
+.modal-body {
+  max-height: 100%;
+}
+.modal.fade.in {
+  top: 0;
+}
+.accordion{
+	background-color:#fff;
+}
+
+table.sermon_table {
+	width:95%;
+	border: 1px solid #E5E5E5;
+	margin: auto;
+	}
+	
+td.td1 {
+	border: 1px solid #E5E5E5;
+	width:27.5%;
+	}
+
+td.td2 {
+	border: 1px solid #E5E5E5;
+	width:47.5%;
+	}
+	
+td.td3 {
+	border: 1px solid #E5E5E5;
+	width:20%;
+	}
+
+#sermon_box {
+	width:100%;
+	background: white;
+	position:relative;
+	margin:auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	}
+    
+h3.sermon_series_title {
+	margin-left: 30px;
+	}
+
+</style>
+
+<title>Palm Canyon Community Church - Home</title>
+<!-- InstanceEndEditable -->
+</head>
+<body class="wood">
+
+    <!-- NAVBAR
+    ================================================== -->
+    <div class="navbar-wrapper">
+      <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+      <div class="container">
+
+        <div class="navbar navbar-inverse">
+          <div class="navbar-inner">
+            <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            
+            
+            <a class="brand" href="index.html">PC3</a>
+            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+            <div class="nav-collapse collapse">
+              <ul class="nav">
+                
+                 <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">I'm New <b class="icon-chevron-down icon-white"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="services.html">When are the services?</a></li>
+                    <li><a href="services.html#length">How long do services last?</a></li>
+                    <li><a href="services.html#length">What do I wear?</a></li>
+                    <li><a href="services.html#length">What's the music like?</a></li>
+                    <li><a href="services.html#kids">What do you have for kids?</a></li>
+                    <li><a href="services.html#kids">What do you have for teens?</a></li>
+                    <li><a href="about.html">What do you believe?</a></li>
+                    <li><a href="about.html#vision">What's your vision?</a></li>
+                    <li><a href="about.html#vision">What are your core values?</a></li>
+                    <li><a href="about.html#bill">Who is Lead Pastor Bill Martin?</a></li>
+                    <li><a href="staff.html">Who's the staff leadership team?</a></li>
+                    <li><a href="contact.html">Can you give me directions?</a></li>
+                  </ul>
+                </li>
+                 <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Adult Ministries<b class="icon-chevron-down icon-white"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="adtov.html">Overview</a></li>
+                    <li><a href="adtov.html#pst">Personal Spiritual Trainer</a></li>
+                    <li><a href="adtov.html#care">Care Team</a></li>
+                    <li><a href="adtov.html#hosp">Hospitality team</a></li>
+                    <li><a href="adtov.html#int">Intercessory Prayer</a></li>
+                    <li><a href="amp.html">Amplified Worship</a></li>
+                    <li><a href="sermons.html">Sermons</a></li>
+                    <li><a href="vol.html">Volunteering</a></li>
+                    
+                 <li><a href="giving.html">Giving</a></li>
+                  </ul>
+                </li>
+                 <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Student Ministries<b class="icon-chevron-down icon-white"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="stuov.html">Overview</a></li>
+                    <li><a href="stuov.html#adult">Just For Parents</a></li>
+                  </ul>
+                </li>
+                 <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">PC Kids<b class="icon-chevron-down icon-white"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="kidov.html">Overview</a></li>
+                    <li><a href="kidvid.html">Awana</a></li>
+                  </ul>
+                </li><li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Life Groups<b class="icon-chevron-down icon-white"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="groups.html">Schedule</a></li>
+                    <li><a href="groups.html#leaders">Leaders & Group Info</a></li>
+                  </ul>
+                </li>
+                 <li><a href="events.html">Events</a></li>
+                 <li><a href="missions.html">Missions</a></li>
+              </ul>
+            </div><!--/.nav-collapse -->
+          </div><!-- /.navbar-inner -->
+        </div><!-- /.navbar -->
+
+      </div> <!-- /.container -->
+    </div><!-- /.navbar-wrapper --><!-- InstanceBeginEditable name="boddy" -->
+
+
+
+    <div class="container marketing space color">
+    <div class="span12"><center><h1>Sermons</h1></center></div>
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="span12">
+        <p>Below we have all our services dating back a few months! Take a look around to find one you missed or one you think you need to hear again! No idea where to start? That's ok email one of our pastors and they can help you find a starting place!</p>
+        <p>For the current year, you can download the mp3 or you can listen to it through your browser.  To download it, right-click the file and click Save-As.  You can then save it anywhere on your computer or media player and listen to it.</p>
+        <h4>For previous years, you can download the sermon from <a href="all_sermons.html">here!</a></h4>
+        </div>
+      </div><!-- /.row -->
+      
+    <div id="sermon_box">
+		
+		<p>
+		<h3 class="sermon_series_title">Do Something</h3>
+		<table class="sermon_table">
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140622.mp3">06.22.2014: No Wondering</a></td>
+					<td class="td3"><a href="sermons/notes/Do Something (part 3) - Notes - 140622.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140615.mp3">06.15.2014: No Regrets</a></td>
+					<td class="td3"><a href="sermons/notes/Do Something (part 2) - Notes - 140615.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140608.mp3">06.08.2014: Follow Him</a></td>
+					<td class="td3"><a href="sermons/notes/Do Something (part 1) - Notes - 140608.pdf">Notes</a></td>
+			</tr>
+		</table>
+		</p>
+	
+		<p>
+		<h3 class="sermon_series_title">Ask It</h3>
+		<table class="sermon_table">
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140601.mp3">06.01.2014: Where It All Begins</a></td>
+					<td class="td3"><a href="sermons/notes/Ask It (part 6) - Where It All Begins - Notes - 140601.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140525.mp3">05.25.2014: Hold My Hand</a></td>
+					<td class="td3"><a href="sermons/notes/Ask It (part 5) - Hold My Hand - Notes - 140525.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Tim Shafer</a></td>
+					<td class="td2"><a href="sermons/20140518.mp3">05.18.2014: Run Baby Run</a></td>
+					<td class="td3"><a href="sermons/notes/Ask It (part 4) - Run Baby Run - Notes B - 140518.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Jacob Malana</a></td>
+					<td class="td2"><a href="sermons/20140511.mp3">05.11.2014: Time Over Time (Also Special Guest, Darris McMillan)</a></td>
+					<td class="td3"><a href="sermons/notes/Ask It (part 3) - Time over Time - Notes B - 140511.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Jacob Malana</a></td>
+					<td class="td2"><a href="sermons/20140504.mp3">05.04.2014: Musical Chairs</a></td>
+					<td class="td3"><a href="sermons/notes/Ask It (part 2) - Musical Chairs - Notes b - 14054.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Tim Shafer</a></td>
+					<td class="td2"><a href="sermons/20140427.mp3">04.27.2014: Question Everything</a></td>
+					<td class="td3"><a href="sermons/notes/Ask It (part 1) - Question Everything - Notes A - 140427.pdf">Notes</a></td>
+			</tr>
+		</table>
+		</p>
+
+		<p>
+		<h3 class="sermon_series_title">The Radical Sayings of Jesus</h3>
+		<table class="sermon_table">
+
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140302.mp3">03.02.2014: You're Not Leaving Too, Are You?</a></td>
+					<td class="td3"><a href="sermons/notes/The Radical Sayings of Jesus (part 1) - You're not leaving to are you - Notes - 140302.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140309.mp3">03.09.2014: The Greatest Leader Is The Lowliest Servant (unavailable)</a></td>
+					<td class="td3"><a href="sermons/notes/The Radical Sayings of Jesus (part 2) - The greatest leader is the lowliest servant - Notes - 140309.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140316.mp3">03.16.2014: Hate Is A Strong Word</a></td>
+					<td class="td3"><a href="sermons/notes/The Radical Sayings of Jesus (part 3) - Hate is a Strong Word - Notes - 140316.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140323.mp3">03.23.2014: Cut It &amp; Pluck It</a></td>
+					<td class="td3"><a href="sermons/notes/The Radical Sayings of Jesus (part 4) - Cut It & PLuck It - Notes - 140323.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140330.mp3">03.30.2014: Marriage, Divorce &amp; Remarriage</a></td>
+					<td class="td3"><a href="sermons/notes/The Radical Sayings of Jesus (part 5) - Marriage, Divorce & Remarriage - Notes - 140330.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140406.mp3">04.06.2014: What Has Jesus Done?</a></td>
+					<td class="td3"><a href="sermons/notes/The Radical Sayings of Jesus (part 6) - What Has Jesus Done - Notes - 140406.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140420.mp3">04.20.2014: The Answer is EASTER!</a></td>
+					<td class="td3"><a href="sermons/notes/The Radical Sayings of Jesus (part 7) - The answer is EASTER - Notes - 140420.pdf">Notes</a></td>
+			</tr>
+		</table>
+		</p>
+		
+		<p>
+		<h3 class="sermon_series_title">Epic Love</h3>
+		<table class="sermon_table">
+
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140209.mp3">02.09.2014: Madly In Love</a></td>
+					<td class="td3"><a href="sermons/notes/Epic Love (part 1) - Madly-In-Love - Notes - 140209.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140216.mp3">02.16.2014: Loving the Hard-to-Love</a></td>
+					<td class="td3"><a href="sermons/notes/Epic Love (part 2) - Loving the Hard-to-Love - Notes - 140216.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140223.mp3">02.23.2014: Are You Wearing Love Today?</a></td>
+					<td class="td3"><a href="sermons/notes/Epic Love (part 3) - Are you wearing love today - Notes - 140223.pdf">Notes</a></td>
+			</tr>
+		</table>
+		</p>
+		
+		<p>
+		<h3 class="sermon_series_title">Elisha: A Tale of Ridiculous Faith</h3>
+		<table class="sermon_table">
+
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20131229.mp3">12.29.2013: Ridiculous Commitment (unavailable)</a></td>
+					<td class="td3"><a href="sermons/notes/Elisha (part 1) - Ridiculous Commitment - Notes - 131229.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Rodney George</a></td>
+					<td class="td2"><a href="sermons/20140105.mp3">01.05.2014: Ridiculous Portion</a></td>
+					<td class="td3"><a href="sermons/notes/">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140112.mp3">01.12.2014: Ridiculous Faith</a></td>
+					<td class="td3"><a href="sermons/notes/Elisha (part 3) - Ridiculous Faith - Notes - 140112.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140119.mp3">01.19.2014: Ridiculous Provision</a></td>
+					<td class="td3"><a href="sermons/notes/Elisha (part 4) - Ridiculous Provision - Notes - 140119.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140126.mp3">01.26.2014: Ridiculous Recovery</a></td>
+					<td class="td3"><a href="sermons/notes/Elisha (part 5) - Ridiculous Recovery - Notes - 140126.pdf">Notes</a></td>
+			</tr>
+			<tr>
+					<td class="td1"><a href="staff.html">Pastor Bill Martin</a></td>
+					<td class="td2"><a href="sermons/20140202.mp3">02.02.2014: Ridiculous Presence</a></td>
+					<td class="td3"><a href="sermons/notes/Elisha (part 6) - Ridiculous Presence - Notes - 140202.pdf">Notes</a></td>
+			</tr>
+		</table>
+		</p>
+	</div>
+
+      <!-- START THE FEATURETTES -->
+
+      <hr class="featurette-divider">
+
+      <div class="featurette">
+        <img class="featurette-image pull-right" src="assets/img/cs6.png">
+        <h2 class="featurette-heading">Want to join us?<span class="muted"> Volunteer!</span></h2>
+        <p class="lead">Check out the volunteer page for open posistions and ministries! <a class="btn" href="vol.html">Volunteering &raquo;</a></p>
+      </div>
+
+      <hr class="featurette-divider">
+	<!-- InstanceEndEditable -->
+      <!-- FOOTER -->
+      <footer class="container">
+      <p>25550 Ironwood Avenue, Moreno Valley, CA 92557 951.247.2273</p>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>Design by <a href="//martin-calvert.com">Martin Calvert</a> &middot; Design using <a href="//twitter.github.io/bootstrap/">Bootstrap</a></p>
+      </footer>
+
+
+</div><!-- /.container -->
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+
+<script>
+$('.carousel').carousel({
+  interval: 4000
+})
+</script>
+</body>
+
+<!-- InstanceEnd --></html>
