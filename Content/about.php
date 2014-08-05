@@ -1,12 +1,12 @@
 <!doctype html>
 <html>
  <?php
-  include '/../assets/shared/head.php';
+  include 'head.php';
  ?>
 <body class="wood">
 
  <?php
-  include '/../assets/shared/navbar.php';
+  include 'navbar.php';
  ?>
 
 <div class="container marketing space color"> 
@@ -91,22 +91,10 @@ Bill and his wife Cindy live in Moreno Valley, California.  They have a grown so
 
       <hr class="featurette-divider">
 
-      <!-- /END THE FEATURETTES -->
-<div id="vbsModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
-    		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-    		<h3 id="myModalLabel">VBS Video</span></h3>
-  		</div>
-  		<div class="modal-body text-center">
-        <iframe width="640" height="360" src="http://www.youtube.com/embed/QG7AweMXx7g?list=UUPkLXtGS82Tr2Fk39fZ3jbA" frameborder="0" allowfullscreen></iframe>
-  		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-  		</div>
-	</div>
+      <!-- END THE FEATURETTES -->
       <!-- FOOTER -->
 <?php
- include '/../assets/shared/footer.php'
+ include 'footer.php'
 ?>
 
 <script>

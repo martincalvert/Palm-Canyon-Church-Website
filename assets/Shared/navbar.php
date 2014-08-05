@@ -1,26 +1,29 @@
     <!-- NAVBAR
     ================================================== -->
-    <div class="navbar-wrapper">
-      <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+   <div class="navbar-wrapper">
       <div class="container">
 
-        <div class="navbar navbar-inverse">
-          <div class="navbar-inner">
+        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
             <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
-            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
             
             
-            <a class="brand" href="index.html">PC3</a>
+            <a class="navbar-brand visible-sm-block" href="index.html">PC3</a>
+            <a class="navbar-brand hidden-sm hidden-md" href="index.html">Palm Canyon Community Church</a>
+            <a class="navbar-brand visible-md-block" href="index.html">Palm Canyon</a>
+          </div>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
-            <div class="nav-collapse collapse">
-              <ul class="nav">
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
                 
                  <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">I'm New <b class="icon-chevron-down icon-white"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">I'm New <i class="fa fa-angle-double-down"></i></a>
                   <ul class="dropdown-menu">
                     <li><a href="services.html">When are the services?</a></li>
                     <li><a href="services.html#length">How long do services last?</a></li>
@@ -37,7 +40,8 @@
                   </ul>
                 </li>
                  <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Adult Ministries<b class="icon-chevron-down icon-white"></b></a>
+                  <a href="#" class="dropdown-toggle hidden-sm" data-toggle="dropdown">Adult Ministries<i class="fa fa-angle-double-down"></i></a>
+                  <a href="#" class="dropdown-toggle visible-sm-block" data-toggle="dropdown">Adult's<i class="fa fa-angle-double-down"></i></a>
                   <ul class="dropdown-menu">
                     <li><a href="adtov.html">Overview</a></li>
                     <li><a href="adtov.html#pst">Personal Spiritual Trainer</a></li>
@@ -52,14 +56,15 @@
                   </ul>
                 </li>
                  <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Student Ministries<b class="icon-chevron-down icon-white"></b></a>
+                  <a href="#" class="dropdown-toggle hidden-sm" data-toggle="dropdown">Student Ministries<i class="fa fa-angle-double-down"></i></a>
+                  <a href="#" class="dropdown-toggle visible-sm-block" data-toggle="dropdown">Student's<i class="fa fa-angle-double-down"></i></a>
                   <ul class="dropdown-menu">
                     <li><a href="stuov.html">Overview</a></li>
                     <li><a href="stuov.html#adult">Just For Parents</a></li>
                   </ul>
                 </li>
                  <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">PC Kids<b class="icon-chevron-down icon-white"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">PC Kids<i class="fa fa-angle-double-down"></i></a>
                   <ul class="dropdown-menu">
                     <li><a href="kidov.html">What To Expect</a></li>
                     <li><a href="kidsun.html">Sundays</a></li>
@@ -73,7 +78,7 @@
                     <li><a href="kidov.html">What To Expect</a></li>
                   </ul>
                 </li><li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Life Groups<b class="icon-chevron-down icon-white"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Life Groups<i class="fa fa-angle-double-down"></i></a>
                   <ul class="dropdown-menu">
                     <li><a href="groups.html">Schedule</a></li>
                     <li><a href="groups.html#leaders">Leaders & Group Info</a></li>
@@ -84,7 +89,10 @@
               </ul>
             </div><!--/.nav-collapse -->
           </div><!-- /.navbar-inner -->
+          
         </div><!-- /.navbar -->
 
       </div> <!-- /.container -->
     </div><!-- /.navbar-wrapper -->
+    
+    
