@@ -1,2 +1,3 @@
-*.php
+psl-config.php
+dbdb.php
 *.sh

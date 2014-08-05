@@ -1,194 +1,62 @@
 <!doctype html>
-<html><!-- InstanceBegin template="/Templates/default.dwt" codeOutsideHTMLIsLocked="false" -->
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
-<meta name="author" content="">
-<link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
-<link href="assets/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../assets/ico/apple-touch-icon-144-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../assets/ico/apple-touch-icon-114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../assets/ico/apple-touch-icon-72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="../../assets/ico/apple-touch-icon-57-precomposed.png">
-<linl rel="shortcut icon" href="assets/ico/favicon.ico" type="image/x-icon">
-<!-- InstanceBeginEditable name="head" -->
-<style>
- body{
-	 background-image:url(assets/img/wood.jpg);
- }
- .modal {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 100%;
-  left: 0;
-  margin-left:auto;
-  margin-right:auto;
-  width: 70%;
-  height: 70%;
-}
-.modal-body {
-  max-height: 100%;
-}
-.modal.fade.in {
-  top: 0;
-}
-</style>
-
-<title>Palm Canyon Community Church - Home</title>
-<!-- InstanceEndEditable -->
-</head>
+<html>
+ <?php
+  include '/../assets/shared/head.php';
+ ?>
 <body class="wood">
 
-
-
-    <!-- NAVBAR
-    ================================================== -->
-    <div class="navbar-wrapper">
-      <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
-      <div class="container">
-
-        <div class="navbar navbar-inverse">
-          <div class="navbar-inner">
-            <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
-            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            
-            
-            <a class="brand" href="index.html">PC3</a>
-            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
-            <div class="nav-collapse collapse">
-              <ul class="nav">
-                
-                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">I'm New <b class="icon-chevron-down icon-white"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="services.html">When are the services?</a></li>
-                    <li><a href="services.html#length">How long do services last?</a></li>
-                    <li><a href="services.html#length">What do I wear?</a></li>
-                    <li><a href="services.html#length">What's the music like?</a></li>
-                    <li><a href="services.html#kids">What do you have for kids?</a></li>
-                    <li><a href="services.html#kids">What do you have for teens?</a></li>
-                    <li><a href="about.html">What do you believe?</a></li>
-                    <li><a href="about.html#vision">What's your vision?</a></li>
-                    <li><a href="about.html#vision">What are your core values?</a></li>
-                    <li><a href="about.html#bill">Who is Lead Pastor Bill Martin?</a></li>
-                    <li><a href="staff.html">Who's the staff leadership team?</a></li>
-                    <li><a href="contact.html">Can you give me directions?</a></li>
-                  </ul>
-                </li>
-                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Adult Ministries<b class="icon-chevron-down icon-white"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="adtov.html">Overview</a></li>
-                    <li><a href="adtov.html#pst">Personal Spiritual Trainer</a></li>
-                    <li><a href="adtov.html#care">Care Team</a></li>
-                    <li><a href="adtov.html#hosp">Hospitality team</a></li>
-                    <li><a href="adtov.html#int">Intercessory Prayer</a></li>
-                    <li><a href="amp.html">Amplified Worship</a></li>
-                    <li><a href="sermons.html">Sermons</a></li>
-                    <li><a href="vol.html">Volunteering</a></li>
-                    
-                 <li><a href="giving.html">Giving</a></li>
-                  </ul>
-                </li>
-                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Student Ministries<b class="icon-chevron-down icon-white"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="stuov.html">Overview</a></li>
-                    <li><a href="stuov.html#adult">Just For Parents</a></li>
-                  </ul>
-                </li>
-                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">PC Kids<b class="icon-chevron-down icon-white"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="kidov.html">What To Expect</a></li>
-                    <li><a href="kidsun.html">Sundays</a></li>
-                    <li><a href="kidvid.html">Thursdays</a></li>
-                    <li><a href="kidhelp.html">Kids Helping Kids</a></li>
-                    <li><a href="vbs.html">VBS</a></li>
-                    <li><a href="fall.html">Fall Festival</a></li>
-                    <li><a href="bible.html">Reading Your Bible Is Fun</a></li>
-                    
-                    <li><a href="follow.html">How To Follow Christ</a></li>
-                    <li><a href="kidov.html">What To Expect</a></li>
-                  </ul>
-                </li><li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Life Groups<b class="icon-chevron-down icon-white"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="groups.html">Schedule</a></li>
-                    <li><a href="groups.html#leaders">Leaders & Group Info</a></li>
-                  </ul>
-                </li>
-                 <li><a href="events.html">Events</a></li>
-                 <li><a href="missions.html">Missions</a></li>
-              </ul>
-            </div><!--/.nav-collapse -->
-          </div><!-- /.navbar-inner -->
-        </div><!-- /.navbar -->
-
-      </div> <!-- /.container -->
-    </div><!-- /.navbar-wrapper --><!-- InstanceBeginEditable name="boddy" -->
-
-
-
-    <!-- Carousel
-    ================================================== -->
-    
-
+ <?php
+  include '/../assets/shared/navbar.php';
+ ?>
 
 <div class="container marketing space color"> 
     <div class="row">
     <h1 class="text-center">What do you believe?</h1>
-    <div class="span4">
+    <div class="col-xs-4">
     	
 <h4>God</h4>God is the Creator and Ruler of the universe.  He has eternally existed in three persons: the Father, the Son, and the Holy Spirit.  These three are co-equal and are one God. (Genesis 1:1,26,27; 3:22, Psalm 90:2, Matthew 28:19, 1 Peter 1:2, 2 Corinthians 13:14)</div>
-<div class="span4">
+<div class="col-xs-4">
 
 <h4>Humanity</h4>Men and women are made in the image of God and are the supreme object of God's creation.  Although God designed humanity to have fellowship with Him, humanity became alienated from God through disobedience.  As a result, all of us are born with a sinful nature and choose to sin against God.  Sin separates us from God and causes many problems in our lives.  We are incapable of regaining a right relationship with God through our own efforts. (Genesis 1:27, Psalm 8:3-6, Isaiah 53:6a, Romans 3:23, Colossians 1:21, Isaiah 59:1-2)
 </div>
-<div class="span4">
+<div class="col-xs-4">
 <h4>Eternity</h4>People were created to exist forever.  We will either exist eternally separated from God by sin, or eternally in union with God through forgiveness and salvation.  When you die, you will either spend eternity in Heaven or Hell.  Eternal separation from God happens in hell.  Eternal union with God is eternal life in Heaven.  Heaven and hell are real places of eternal existence. (John 3:16, 1 John 2:25; 5:11-13, Romans 6:23, Revelation 20:15)
 </div>
 </div>
 <div class="row">
-<div class="span4">
+<div class="col-xs-4">
 <h4>Jesus Christ</h4>Jesus Christ is God’s eternal son.  He is co-equal with the Father and the Holy Spirit.  As true God and true human, He allowed Himself to be born of a virgin, taught people how to live through His sinless life, was crucified on a cross as the perfect sacrifice for the sins of all humanity, arose bodily from the dead after three days to demonstrate His power over sin and death, was seen by over 500 persons, returned to heaven to prepare a place for us and will return again to reign as King of Kings and Lord of Lords.  This is the hope of the church and its encouragement for ministry.  Those who have been reborn will live with Him forever. (Matthew 1:22-23, Isaiah 9:6, John 1:1-5; 14:10-30, Hebrews 4:14-15, 1 Corinthians 15:3-4, Romans 1:3-4, Acts 1:9-11, 1 Timothy 6:14-15, Titus 2:13)
 </div>
-<div class="span4">
+<div class="col-xs-4">
 <h4>Salvation</h4>Salvation is God’s free gift from God to humanity but we must accept it.  We can never make up for our sin by self-improvement or good works.  Only by trusting in Jesus Christ as God's offer of forgiveness can anyone be saved from sin's penalty and be born again.  When we turn from our self-ruled life and turn to follow Christ we are saved and born again.  Eternal life begins the moment one receives Jesus Christ into his/her life by faith. (Romans 6:23, Ephesians 2:8-9, John 14:6; 1:12, Titus 3:5, Galatians 3:26, Romans 5:1)
 </div>
-<div class="span4">
+<div class="col-xs-4">
 <h4>Baptism</h4>Baptism is symbolic of the death, burial and resurrection of Christ.  Once we have accepted Jesus as our Lord and Savior, baptism is a way for us to publicly declare our new life in Christ.  It is also a step of obedience based on God’s commands and allows us to follow the example of Jesus, who submitted himself to baptism to "fulfill all righteousness." (Matthew 3:16-17, 28:18-20; Acts 2:41, 8:12)
 </div>
 </div>
 <div class="row">
-<div class="span3">
+<div class="col-xs-3">
 <h4>Eternal Security</h4>Because God gives humanity eternal life through Jesus Christ, the believer is secure in that salvation for eternity.  Salvation is maintained by the grace and power of God, not by the self-effort of the Christian.  It is the grace and keeping power of God that gives this security. (John 10:29, 2 Timothy 1:12, Hebrews 7:25; 10:10-14, 1 Peter 1:3-5)
 </div>
-<div class="span3">
+<div class="col-xs-3">
 <h4>The Holy Spirit</h4>The Holy Spirit is co-equal with the Father and the Son of God.  He is present in the world to make humanity aware of their need for Jesus Christ and to persuade them to repent of their sins.  He also lives in every believer from the moment of salvation.  He provides the Christian with power for living, understanding of spiritual truth, and guidance in doing what is right.  He gives every Christ-follower spiritual gifts when they are born again.  As Christ-followers we seek to live under His control daily. (2 Corinthians 3:17, John 16:7-13; 14:16-17, Acts 1:8, 1 Corinthians 2:12; 3:16, Ephesians 1:13, Galatians 5:25, Ephesians 5:18)
 </div>
-<div class="span3">
+<div class="col-xs-3">
 <h4>The Bible</h4>The Bible is God's Word to us.  It was written by human authors, under the supernatural guidance of the Holy Spirit.  It is the supreme source of truth for Christian beliefs and living.  Because it is inspired by God, it is truth without error. (2 Timothy 3:16-17, 2 Peter 1:20-21, 2 Timothy 1:13, Psalm 119:105,160, Psalm 12:6, Proverbs 30:5)
 </div>
-<div class="span3">
+<div class="col-xs-3">
 <h4>The Church</h4>The Church is the living body of Christ on earth.  Jesus Christ is its head and the source of its life.  The Church is composed of those who have received Him as Savior and Lord and exists to celebrate the life of God, cultivate personal growth in Christ, care about one another in Christ and communicate Christ to our world.
 </div>
 </div>
     <hr class="featurette-divider" id="vision">
     <div class="row">
-    <div class="span6" >
+    <div class="col-xs-6" >
     <h1 class="text-center">What’s your vision?</h1>
     <h5>Our Vision</h5>
 Palm Canyon Church exists to reach people far from perfect and teach them to follow Christ step by step.  We believe that we are to be a transforming movement.  Being the church necessitates movement.  God doesn’t want us to just GO to church or DO church for an hour once a week; He wants us to BE the church 24/7.  The power and life of the Holy Spirit working in Christ-followers produces a movement that results in nothing less than cultural transformation.
 
     </div>
-    <div class="span6" id="core">
+    <div class="col-xs-6" id="core">
     <h1 class="text-center">What are your core values?</h1>
     <h5>Our Core Values</h5>
     <ul>
@@ -236,24 +104,15 @@ Bill and his wife Cindy live in Moreno Valley, California.  They have a grown so
     		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
   		</div>
 	</div>
-	<!-- InstanceEndEditable -->
       <!-- FOOTER -->
-      <footer class="container">
-      <p>25550 Ironwood Avenue, Moreno Valley, CA 92557 951.247.2273</p>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>Design by <a href="//martin-calvert.com">Martin Calvert</a> &middot; Design using <a href="//twitter.github.io/bootstrap/">Bootstrap</a></p>
-      </footer>
-
-
-</div><!-- /.container -->
-<script src="http://code.jquery.com/jquery.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
+<?php
+ include '/../assets/shared/footer.php'
+?>
 
 <script>
-$('.carousel').carousel({
-  interval: 4000
+$(document).ready(function(){
+ document.title="Palm Canyon Community Church – About Us"
 })
 </script>
 </body>
-
-<!-- InstanceEnd --></html>
+</html>
