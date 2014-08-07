@@ -7,7 +7,7 @@
         </div>
         <div class="col-sm-7 col-xs-12">
           <h2 class="featurette-heading">PC3 On Facebook<span class="muted"> Like us!</span></h2>
-          <p class="lead">Like us on facebook to get secret hints about each sunday service! It also allows us to share photos from our events quickly so we can see our fellow christ followers in action! <a class="btn btn-primary" href="http://www.facebook.com/palmcanyonchurch">Facebook Page</a></p>
+          <p class="lead">Like us on facebook to get secret hints about each sunday service! It also allows us to share photos from our events quickly so we can see our fellow christ followers in action! <a class="btn btn-primary" href="http://www.facebook.com/palmcanyonchurch"><i class="fa fa-facebook-square"></i> Facebook Page</a></p>
         </div>
       </div>
       <? elseif ($n==2): ?>
@@ -21,5 +21,13 @@
         </div>
       </div>
       <? elseif ($n==3): ?>
-      
+      <div class="row featurette">
+        <div class="col-sm-5 col-sm-push-7 col-xs-12">
+          <img class="featurette-image img-responsive" src="assets/img/cs6.png" alt="Generic placeholder image">
+        </div>
+        <div class="col-sm-7 col-sm-pull-5 col-xs-12">
+          <h2 class="featurette-heading">Want to join us?<span class="text-muted"> Volunteer!</span></h2>
+          <p class="lead">Check out the volunteer page for open posistions and ministries! <a class="btn" href="vol.html">Volunteering <i class="fa fa-angle-double-right"></i></a></p>
+        </div>
+      </div>
       <? endif ?>
