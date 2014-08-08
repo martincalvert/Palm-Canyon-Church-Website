@@ -19,16 +19,28 @@
       <hr class="featurette-divider">
        <? include 'features.php' ?>
       <hr class="featurette-divider">
-      <div id="followModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-body text-center">
-		 <iframe width="640" height="360" src="http://youtu.be/jEprqbmDpuI" frameborder="0" allowfullscreen></iframe>
-  		</div>
-	</div>
-    <div id="baptismModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-body text-center">
-        <iframe width="640" height="360" src="http://youtu.be/Q51yi_HxNkY" frameborder="0" allowfullscreen></iframe>
-  		</div>
-	</div>
+
+      <div class="modal fade" id="followModal">
+       <div class="modal-dialog">
+	 <div class="modal-content">
+	   <div class="modal-body">
+	     <iframe width="640" height="360" src="http://youtu.be/jEprqbmDpuI" frameborder="0" allowfullscreen></iframe>
+	   </div>
+     
+	 </div><!-- /.modal-content -->
+       </div><!-- /.modal-dialog -->
+     </div><!-- /.modal -->
+      <div class="modal fade" id="baptismModal">
+       <div class="modal-dialog">
+	 <div class="modal-content">
+	   <div class="modal-body">
+	     <iframe width="640" height="360" src="http://youtu.be/Q51yi_HxNkY" frameborder="0" allowfullscreen></iframe>
+	   </div>
+     
+	 </div><!-- /.modal-content -->
+       </div><!-- /.modal-dialog -->
+     </div><!-- /.modal -->
+
     <? include 'footer.php' ?>
 <script>
  document.title+="Following Christ"
