@@ -6,7 +6,6 @@
     <div class="col-xs-12"><h1 class="text-center">Contact & Directions</h1>g</div>
         <div class="row">
         <div class="col-xs-12 col-sm-6 lead">Bill Martin - Lead Pastor<br><a href="mailto:bill@palmcanyon.org">bill@palmcanyon.org</a>
-        <br>Tim Shafer - Student Ministries Pastor<br> <a href="mailto:tim@palmcanyon.org">tim@palmcanyon.org</a>
         <br>Jacob Malana - Middle School Director <br><a href="mailto:braden@palmcanyon.org">jacob@palmcanyon.org</a>
         <br>Cindy Martin - PC Kids Ministry Director <br><a href="mailto:cindy@palmcanyon.org">cindy@palmcanyon.org</a>
         <br>Carrie Jacobs Creative Arts Director <br><a href="mailto:carrie@palmcanyon.org">carrie@palmcanyon.org</a>
