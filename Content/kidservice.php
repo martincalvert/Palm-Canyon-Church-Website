@@ -34,6 +34,4 @@
 <script>
 document.title+="Core"
 </script>
-</body>
-
-<!-- InstanceEnd --></html>
+</body></html>

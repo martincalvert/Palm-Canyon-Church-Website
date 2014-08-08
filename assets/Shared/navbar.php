@@ -66,16 +66,22 @@
                  <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">PC Kids<i class="fa fa-angle-double-down"></i></a>
                   <ul class="dropdown-menu">
-                    <li><a href="kidov.php">What To Expect</a></li>
-                    <li><a href="kidsun.php">Sundays</a></li>
-                    <li><a href="kidvid.php">Thursdays</a></li>
+                    <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">What To Expect</a>
+                    <ul class="dropdown-menu">
+                      <li><a href="kidov.php#first">First Time At PC Kids</a></li>
+                      <li><a href="kidov.php#pickup">How To Pickup My Kids</a></li>
+                      <li><a href="kidov.php#nursing">Nursing Mothers?</a></li>
+                      <li><a href="kidov.php#special">Special Note</a></li>
+                    </ul>
+                    </li>
+                    <li><a href="kidservice.php#sundays">Sundays</a></li>
+                    <li><a href="kidservice.php#thursdays">Thursdays</a></li>
                     <li><a href="kidhelp.php">Kids Helping Kids</a></li>
                     <li><a href="vbs.php">VBS</a></li>
                     <li><a href="fall.php">Fall Festival</a></li>
                     <li><a href="bible.php">Reading Your Bible Is Fun</a></li>
                     <li><a href="awana.php">Awana</a></li>
                     <li><a href="follow.php">How To Follow Christ</a></li>
-                    <li><a href="kidov.php">What To Expect</a></li>
                   </ul>
                 </li><li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Life Groups<i class="fa fa-angle-double-down"></i></a>

@@ -1,4 +1,4 @@
-<!doctype html>
+<html>
 <? include 'head.php' ?>
 <body class="wood">
 <? include 'navbar.php' ?>
