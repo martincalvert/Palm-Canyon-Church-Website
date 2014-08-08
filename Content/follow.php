@@ -21,7 +21,7 @@
       <hr class="featurette-divider">
       <div id="followModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   		<div class="modal-body text-center">
-		 <iframe width="640" height="360" src="http://youtu.be/jEprqbmDpuI" frameborder="0" allowfullscreen></iframe>
+		 <iframe width="1280" height="720" src="http://www.youtube.com/embed/jEprqbmDpuI" frameborder="0" allowfullscreen></iframe>
   		</div>
 	</div>
     <div id="baptismModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
