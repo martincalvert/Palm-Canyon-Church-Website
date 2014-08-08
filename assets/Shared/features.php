@@ -1,6 +1,6 @@
      <? $r=rand(1,3) ?>
      
-     <? if ($n==1): ?>
+     <? if ($r==1): ?>
       <div class="row featurette">
         <div class="col-sm-5 col-xs-12">
           <img class="featurette-image img-responsive" src="assets/img/fb.png" alt="Generic placeholder image">
@@ -10,7 +10,7 @@
           <p class="lead">Like us on facebook to get secret hints about each sunday service! It also allows us to share photos from our events quickly so we can see our fellow christ followers in action! <a class="btn btn-primary" href="http://www.facebook.com/palmcanyonchurch"><i class="fa fa-facebook-square"></i> Facebook Page</a></p>
         </div>
       </div>
-      <? elseif ($n==2): ?>
+      <? elseif ($r==2): ?>
       <div class="row featurette">
         <div class="col-sm-5 col-sm-push-7 col-xs-12">
           <img class="featurette-image img-responsive" src="assets/img/int_pray500.png" alt="Generic placeholder image">
@@ -20,7 +20,7 @@
           <p class="lead">An online prayer team interceding in prayer for people and their needs. If you are interested in serving in this ministry please email <a href="mailto:mail@palmcanyon.org">mail@palmcanyon.org</a></p>
         </div>
       </div>
-      <? elseif ($n==3): ?>
+      <? elseif ($r==3): ?>
       <div class="row featurette">
         <div class="col-sm-5 col-sm-push-7 col-xs-12">
           <img class="featurette-image img-responsive" src="assets/img/cs6.png" alt="Generic placeholder image">

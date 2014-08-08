@@ -1,3 +1,4 @@
 psl-config.php
 dbdb.php
 *.sh
+*.DS_STORE
