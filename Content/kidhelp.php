@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
- <? incude 'head.php' ?>
+ <? include 'head.php' ?>
 <body class="wood">
 
 <? include 'navbar.php' ?>
