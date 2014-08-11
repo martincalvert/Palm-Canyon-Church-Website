@@ -5,7 +5,7 @@
 
 <meta name="author" content="">
 <link href="assets/css/extra.css" rel="stylesheet" media="screen">
-<link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="assets/css/bootstrap.css" rel="stylesheet" media="screen">
 <link href="assets/css/font-awesome.css" rel="stylesheet">
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../assets/ico/apple-touch-icon-144-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../assets/ico/apple-touch-icon-114-precomposed.png">

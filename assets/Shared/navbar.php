@@ -3,7 +3,7 @@
    <div class="navbar-wrapper">
       <div class="container">
 
-        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+        <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
           <div class="container">
             <div class="navbar-header">
             <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
@@ -66,13 +66,7 @@
                  <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">PC Kids<i class="fa fa-angle-double-down"></i></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">What To Expect</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="kidov.php#first">First Time At PC Kids</a></li>
-                      <li><a href="kidov.php#pickup">How To Pickup My Kids</a></li>
-                      <li><a href="kidov.php#nursing">Nursing Mothers?</a></li>
-                      <li><a href="kidov.php#special">Special Note</a></li>
-                    </ul>
+                    <li><a href="pc-kids-overview.php">What To Expect</a>
                     </li>
                     <li><a href="kidservice.php#sundays">Sundays</a></li>
                     <li><a href="kidservice.php#thursdays">Thursdays</a></li>
