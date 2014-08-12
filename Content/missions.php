@@ -49,6 +49,7 @@
 	 </div>
   		</div>
 	</div>
+      <? include 'footer.php' ?>
 <script>
  document.title+=" Missions"
 </script>
