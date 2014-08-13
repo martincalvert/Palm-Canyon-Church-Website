@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <? include 'head.php' ?>
-<body class="wood">
+<body>
  <? include 'navbar.php' ?>
     <div class="container marketing space">
     <div class="col-xs-12 text-center"><h1>How To Follow Christ</h1></div>
@@ -43,7 +43,7 @@
 
     <? include 'footer.php' ?>
 <script>
- document.title+="Following Christ"
+ document.title+=" How To Following Christ"
 </script>
 </body>
 </html>

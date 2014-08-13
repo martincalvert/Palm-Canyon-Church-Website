@@ -1,7 +1,7 @@
 <!doctype html>
 <html><!-- InstanceBegin template="/Templates/default.dwt" codeOutsideHTMLIsLocked="false" -->
 <? include 'head.php' ?>
-<body class="wood">
+<body>
 <? include 'navbar.php' ?>
     <div class="container marketing space">
     <div class="col-xs-12"><center><h1>Reading Your Bible Is Fun!</h1><center></div>
@@ -26,6 +26,6 @@
 	</div>
 <? include 'footer.php' ?>
 <script>
-document.title+="Awana"
+document.title+=" PC Kids Reading Your Bible Is Fun"
 </script>
 </body></html>

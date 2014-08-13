@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <? include 'head.php' ?>
-<body class="wood">
+<body>
  <? include 'navbar.php'?>
     <div class="container marketing space color">
     <div class="col-xs-12 text-center"><h1>Life Groups</h1></div>
@@ -451,7 +451,7 @@
 	    </div>
 	</div>
 	<!--END BILL & CINDY MODAL-->
-<? include 'footer'.php' ?>
+<? include 'footer.php' ?>
 <script>
  document.title+=" Life Groups"
 </script>

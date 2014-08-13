@@ -3,7 +3,7 @@
  <?php
   include 'head.php';
  ?>
-<body class="wood">
+<body>
 
  <?php
   include 'navbar.php';
@@ -96,9 +96,7 @@ Bill and his wife Cindy live in Moreno Valley, California.  They have a grown so
 ?>
 
 <script>
-$(document).ready(function(){
- document.title="Palm Canyon Community Church – About Us"
-})
+ document.title+=" About Us"
 </script>
 </body>
 </html>

@@ -3,7 +3,7 @@
 <?php
  include 'head.php'
 ?>
-<body class="wood">
+<body>
 
 <?php
  include 'navbar.php'
@@ -80,9 +80,8 @@
       <? include 'footer.php' ?>
       
 <script>
-$(document).ready(function(){
- document.title="Palm Canyon Community Church Ð Adult Overview"
-})
+ document.title+=" Adult Overview"
+
 </script>
 </body>
 </html>

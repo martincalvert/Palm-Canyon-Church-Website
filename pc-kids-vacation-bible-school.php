@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <? include 'head.php' ?>
-<body class="wood">
+<body>
  <? include 'pc-kids-navbar.php' ?>
 
     <div class="container marketing space">

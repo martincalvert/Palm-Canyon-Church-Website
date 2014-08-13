@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <? include 'head.php' ?>
-<body class="wood">
+<body>
 <? include 'navbar.php' ?>
     <div class="container marketing space color">
     <div class="col-xs-12 text-center"><h1>Giving</h1></div>
@@ -23,7 +23,7 @@
       <hr class="featurette-divider">
       <? include 'footer.php' ?>
 <script>
-  document.title+=" Giving & Donations"
+  document.title+=" Tithing & Donations"
 </script>
 </body>
 </html>

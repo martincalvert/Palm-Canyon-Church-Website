@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <? include 'head.php' ?>
-<body class="wood">
+<body>
 
 <? include 'navbar.php' ?>
 
@@ -25,7 +25,7 @@
       <hr class="featurette-divider">
        <? include 'footer.php' ?>
 <script>
- document.title+=" Kids Helping Kids"
+ document.title+=" PC Kids Helping Kids"
 </script>
 </body>
 </html>

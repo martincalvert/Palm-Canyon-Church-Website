@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <? include 'head.php' ?>
- <body class="wood">
+ <body>
   <? include 'navbar.php' ?>
     <div class="container marketing space color">
     <div class="row">
@@ -478,7 +478,7 @@
 	<? include 'footer.php' ?>
 	
 <script>
-document.title="Palm Canyon Community Church - Amplified Worship Team"
+document.title=" Amplified Worship Team"
 </script>
 </body>
 </html>

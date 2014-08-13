@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <? include 'head.php' ?>
-<body class="wood">
+<body>
 <? include 'navbar.php' ?>
     <div class="container marketing space">
     <div class="col-xs-12 text-center"><h1>Fall Festival</h1></div>
@@ -26,7 +26,7 @@
 	</div>
       <? include 'footer.php' ?>
 <script>
- document.title+="Fall Festival"
+ document.title+=" PC Kids Fall Festival"
 </script>
 </body>
 </html>

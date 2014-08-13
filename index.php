@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <? include  'head.php' ?>
-<body class="wood">
+<body>
 
 <? include 'navbar.php' ?>
     <!-- Carousel
@@ -58,7 +58,6 @@
 <? include 'footer.php' ?>
 <script>
  document.title+=" Home"
- 
 </script>
 </body>
 </html>

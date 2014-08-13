@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <? include 'head.php' ?>
-<body class="wood">
+<body>
  <? include 'navbar.php' ?>
 
     <div class="container marketing space color">
@@ -68,6 +68,8 @@
        <? include 'features.php' ?>
       <hr class="featurette-divider">
   <? include 'footer.php' ?>
-  
+  <script>
+   document.title+=" Volunteer Opportunities"
+  </script>
 </body>
 </html>

@@ -20,8 +20,8 @@
                 <li><a href="pc-kids-overview.php">PC Kids</a></li>
                  <li><a data-target="#ageModal" data-toggle="modal">Age<span class="hidden-sm"> Group</span>s</a></li>
 		 <li><a data-target="#safetyModal" data-toggle="modal"><span class="hidden-sm">Child </span>Safety</a></li>
-                 <li><a href="pc-kids-service.php#sundays">Sundays</a></li>
-                 <li><a href="pc-kids-service.php#thursdays">Thursdays</a></li>
+                 <li><a href="pc-kids-service.php#sunday">Sundays</a></li>
+                 <li><a href="pc-kids-service.php#thursday">Thursdays</a></li>
 		 <li><a href="pc-kids-vacation-bible-school.php"><span class="hidden-sm">Summer</span> VBS</a></li>
 		 <li><a href="pc-kids-fall-festival.php">Fall Festival</a></li>
 		 <li><a href="pc-kids-staff.php"><span class="hidden-sm">Our</span> Staff</a></li>
