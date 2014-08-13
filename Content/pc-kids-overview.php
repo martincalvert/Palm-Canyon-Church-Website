@@ -10,7 +10,7 @@
       <div class="col-xs-12 col-sm-3 col-sm-offset-9"><a href="pc-kids-how-to-follow-christ.php">Baptism</a></div>
       <div class="col-xs-12 col-sm-3 col-sm-offset-9"><a href="pc-kids-how-to-follow-christ.php">How To Follow Christ</a></div>
       <div class="col-xs-12 col-sm-3 col-sm-offset-9"><a href="pc-kids-helping-kids.php">Kids Helping Kids!</a></div>
-      <div class="col-xs-12 col-sm-3 col-sm-offset-9"><a href="pc-kids-reading-your-bible-is-fun.php">Reading Your Bible Is Fun</a></div>
+      <div class="col-xs-12 col-sm-3 col-sm-offset-9"><a href="pc-kids-reading-your-bible.php">Reading Your Bible Is Fun</a></div>
       <div class="row">
        <div class="col-xs-12"><h2>What To Expect</h2></div>
        <div class="col-sm-5 col-xs-12"><h3>First Time at PC Kids?</h3>
