@@ -66,16 +66,15 @@
                  <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">PC Kids<i class="fa fa-angle-double-down"></i></a>
                   <ul class="dropdown-menu">
-                    <li><a href="pc-kids-overview.php">What To Expect</a>
-                    </li>
+                    <li><a href="pc-kids-overview.php">What To Expect</a></li>
                     <li><a href="pc-kids-service.php#sundays">Sundays</a></li>
-                    <li><a href="pc-kids-service.php#thursdays">Thursdays</a></li>
+                    <li><a href="pc-kids-awana.php">Awana</a></li>
                     <li><a href="pc-kids-helping-kids.php">Kids Helping Kids</a></li>
                     <li><a href="pc-kids-vacation-bible-school.php">VBS</a></li>
                     <li><a href="pc-kids-fall-festival.php">Fall Festival</a></li>
                     <li><a href="pc-kids-reading-your-bible.php">Reading Your Bible Is Fun</a></li>
-                    <li><a href="pc-kids-awana.php">Awana</a></li>
-                    <li><a href="pc-kids-hot-to-follow-christ.php">How To Follow Christ</a></li>
+                    <li><a href="pc-kids-overview.php#safety">Child Protecton Policy</a></li>
+                    <li><a href="pc-kids-our-staff.php">Child Protecton Policy</a></li>
                   </ul>
                 </li>
                  <li class="dropdown">

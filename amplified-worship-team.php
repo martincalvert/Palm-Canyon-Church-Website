@@ -142,6 +142,7 @@
 
       <!-- /END THE FEATURETTES -->
 <div id="leslieModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+ <div class="modal-dialogue"><div class="modal-content">
   		<div class="modal-header">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Leslie Hitchcock<span class="muted"> Vocals & Keys</span></h3>
@@ -156,12 +157,12 @@
             <p><strong>Favorite Genre:</strong> Country</p>
             <p><strong>Occupation:</strong> Senior Accountant For Riverside County Flood Control & Business Administrator</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+</div>
   		</div>
 	</div>
     <!-- Modal Bill -->
 	<div id="bradenModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+         <div class="modal-dialogue"><div class="modal-content">
   		<div class="modal-header">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Braden Schaidt<span class="muted"> Drums</span></h3>
@@ -173,13 +174,13 @@
             <p><strong>Favorite Genre:</strong> Country</p>
             <p><strong>Occupation:</strong> Director of middle school ministries & full time student at CBU (Kinesiology Major)</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+                </div>
   		</div>
 	</div>
     <!-- Modal Bill -->
 	<div id="stephModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+         <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Stephanie Schaidt<span class="muted"> Vocals</span></h3>
   		</div>
@@ -190,12 +191,12 @@
             <p><strong>Favorite Genre:</strong> Country</p>
             <p><strong>Occupation:</strong> RN at Redlands Community hospital, "Direct Effect" leader at PC3, queen of the drama ministry</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+                </div>
   		</div>
 	</div>
     <div id="adamModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Adam Jacobs<span class="muted"> Vocals</span></h3>
   		</div>
@@ -206,14 +207,14 @@
             <p><strong>Favorite Genre:</strong> classic rock</p>
             <p><strong>Occupation:</strong> Elementary Band Teacher for Jurupa Unified School District</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+                </div>
   		</div>
 	</div>
 
     <!-- Modal Bill -->
 	<div id="paulModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+         <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Paul Witt<span class="muted"> Electric Guitar</span></h3>
   		</div>
@@ -224,13 +225,13 @@
             <p><strong>Favorite Genre:</strong> Christian Rock</p>
             <p><strong>Occupation:</strong> United States Air Force</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+        </div>
   		</div>
 	</div>
     <!-- Modal Cindy -->
 	<div id="cindyModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+         <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3  class="text-center">Cindy Martin <span class="muted"> Vocals & Keys</span></h3>
   		</div>
@@ -244,13 +245,13 @@
             <p><strong>Favorite Genre:</strong> Jazz & R&B </p>
             <p><strong>Occupation:</strong> Children's Ministry & Awana Leader </p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+        </div>
   		</div>
 	</div>
     <!-- Modal Carrie -->
 	<div id="carrieModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+         <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3  class="text-center">Carrie Martin <span class="muted">Worship Leader</span></h3>
   		</div>
@@ -262,13 +263,13 @@
             <p>Favorite Genre: Country & Pop</p>
             <p>Occupation: Creative Arts Director, Voice & Drum Instructor</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+        </div>
   		</div>
 	</div>
     
     <div id="jonathanModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Jonathan Synnott <span class="muted"> Guitar</span></h3>
   		</div>
@@ -280,12 +281,12 @@
             <p><strong>Favorite Genre:</strong> Rock & Indie </p>
             <p><strong>Occupation:</strong> Middle School English teacher, Life Group Leader, & PC3 Board Member </p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
   		</div>
 	</div>
     <div id="joanModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Joan Warburg <span class="muted"> Vocals </span></h3>
   		</div>
@@ -296,12 +297,12 @@
             <p><strong>Favorite Band:</strong> Casting Crowns, groups that challenge their listeners to make a difference.</p>
             <p><strong>Occupation:</strong> Elementary School Curriculum Coach </p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
   		</div>
 	</div>
     <div id="teriModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Teri Solorio<span class="muted"> Sound Board </span></h3>
   		</div>
@@ -315,12 +316,12 @@
             <p><strong>Favorite Cartoon:</strong> Speedy Gonzalez</p>
                                
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
   		</div>
 	</div>
     <div id="markModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Mark Synnott<span class="muted"> Drums </span></h3>
   		</div>
@@ -332,12 +333,12 @@
             <p><strong>Favorite Genre:</strong> Christian Worship</p>
             <p><strong>Occupation:</strong> Middle School Language Arts and Reading Intervention Teacher</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
   		</div>
 	</div>
     <div id="katieModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Katie Malana<span class="muted"> Vocals</span></h3>
   		</div>
@@ -349,12 +350,12 @@
             <p><strong>Favorite Genre:</strong> Anything you can sing to</p>
             <p><strong>Occupation:</strong> Pre-School Teacher</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
   		</div>
 	</div>
     <div id="johnModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">John McGroovy<span class="muted"> Acoustic Guitar</span></h3>
   		</div>
@@ -366,12 +367,12 @@
             <p><strong>Favorite Genre:</strong> Fusion jazz</p>
             <p><strong>Occupation:</strong> Retired</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
   		</div>
 	</div>
     <div id="steveModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Steve Velasquez<span class="muted"> Bass Guitar</span></h3>
   		</div>
@@ -383,11 +384,11 @@
             <p><strong>Favorite Genre:</strong> Classical Orchestration</p>
             <p><strong>Occupation:</strong> Plumbing Contractor</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
   		</div>
 	</div>
     <div id="mikeModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialogue"><div class="modal-content">
   		<div class="modal-header">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Mike Park<span class="muted"> Lights (Tech Team)</span></h3>
@@ -400,12 +401,12 @@
             <p><strong>Favorite Drink:</strong> Ice Tea</p>
             <p><strong>Favorite Cartoon:</strong> Calvin and Hobbs</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
   		</div>
 	</div>
     <div id="lanceModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Lance Trevathan<span class="muted"> </span></h3>
   		</div>
@@ -417,12 +418,12 @@
             <p><strong>Favorite Genre:</strong> Christian, Rock and Metal</p>
             <p><strong>Occupation:</strong> Retired U.S. Army (22 years)</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
   		</div>
 	</div>
     <div id="thomasModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Thomas Graham<span class="muted"> Lights (Tech Team)</span></h3>
   		</div>
@@ -434,12 +435,12 @@
             <p><strong>Favorite Drink:</strong> Unsweetened Ice Tea</p>
             <p><strong>Favorite Cartoon:</strong> Looney Tunes</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
   		</div>
 	</div>
 
     <div id="artModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialogue"><div class="modal-content">
   		<div class="modal-header">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Art Giovannini<span class="muted"> Sound Operator</span></h3>
@@ -451,14 +452,13 @@
 <p><strong>Favorite cartoon - </strong>Scooby Doo, Bugs Bunny, Tom & Jerry </p>
 <p><strong>Favorite band -</strong>Rascal Flats</p>
 <p><strong>Favorite song -</strong>Might To Save</p>
-  		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+  		</div></div>
   		</div>
 	</div>
     
     <div id="kayModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  		<div class="modal-header">
+     <div class="modal-dialogue"><div class="modal-content">
+  		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Kay Thomas<span class="muted"> Vocals</span></h3>
   		</div>
@@ -470,9 +470,7 @@
 <p><strong>Favorite genre -</strong>Gospel, Christian, Christian Rap, Jazz (Traditional, Latin), Cuban Salsa, Country </strong></p>
 <p><strong>Occupation -</strong> Receptionist</p>
   		</div>
-  		<div class="modal-footer">
-    		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-  		</div>
+           </div></div>
 	</div>
 
 	<? include 'footer.php' ?>

@@ -10,7 +10,7 @@
         <h4>Take a look at our upcoming events,for the next couple of weeks!</h4>
         <p><uL id="events">
 	<?
-	  include_once 'vault/db_connect.php';
+	  include_once 'db_connect.php';
 	  if ($mysqli->connect_errno) {
 		  echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
 		  }

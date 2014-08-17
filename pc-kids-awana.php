@@ -14,6 +14,11 @@
         <div class="col-xs-12 col-sm-6">
         <h3>Impact Of Awana</h3>
         <a class="btn btn-large btn-info" data-target="#impactModal" data-toggle="modal">Video</a>
+	<div class="col-xs-12">
+	  <p>September 4th - June 4th | Ages 3-11 | Thursdays 6:30pm-8:30pm</p>
+	  <p>There is a charge for this program which covers uniform and activities. This fee is $49 for first timers or if you need a new uniform. $39 if you have your uniform for your club level. All of this for so little - it's worth it parents! Kids will experience a cance to see God's word come to life on their level. NO BORING CHURCH! Your child will love this time to interact with kids their age, with mentors who are concerned for your child, your family, and assisting in spiritual growth. They will play large group games, awesome music, book time to earn badges and awards. It is a hilariously fun bible time! KIDS LOVE IT!</p>
+	  <a href="facebook" class="btn btn-lg btn-primary"><i class="fa fa-facebook"></i> PC Kids Awana On Facebook</a>
+	</div>
       </div><!-- /.row -->
 
       <!-- START THE FEATURETTES -->

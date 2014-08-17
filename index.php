@@ -14,7 +14,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="assets/img/upcoming.jpg" alt="Current series image">
+          <img class="img-responsive" src="assets/img/upcoming.jpg" alt="Current series image">
           <div class="container">
             <div class="carousel-caption">
               <h1>Current Series!</h1>
@@ -23,7 +23,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="assets/img/school.jpg" alt="School Supply Drive">
+          <img class="img-responsive" src="assets/img/school.jpg" alt="School Supply Drive">
           <div class="container">
             <div class="carousel-caption">
               <h1>School Supply Drive</h1>
@@ -33,7 +33,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="assets/img/cb.jpg" alt="Image Of Church">
+          <img class="img-responsive" src="assets/img/cb.jpg" alt="Image Of Church">
           <div class="container">
             <div class="carousel-caption">
               <h1>Services & Location</h1>
