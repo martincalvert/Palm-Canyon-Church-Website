@@ -7,15 +7,16 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
     <!-- Optional theme -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
     <!-- Latest compiled and minified JavaScript -->
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <title>Palm Canyon Community Church | </title>
     <style>
         .loading-box{
@@ -27,56 +28,45 @@
 
 <body>
     <div class="container">
-        <div class="col-xs-12">
+        <div class="col-xs-12 text-center">
             <h1>Edit PC3</h1>
             <h3>Events</h3>
             <div class="alert alert-success hidden" id="alert"><span id="alert-message"></span></div>
             <div class="col-xs-12">
                 <form role="form" id="event-form">
-                    <div class="form-group col-xs-5">
-                        <label for="event-name">Event Name</label>
-                        <input id="event-name" name="event[]">
-                    </div>
-                    <div class="form-group col-xs-2">
-                        <label for="event-date">Event Date</label>
-                        <input id="event-date" name="event[]">
-                    </div>
-                    <div class="form-group col-xs-4">
-                        <label for="event-date-name">Event Date Name</label>
-                        <input id="event-date-name" name="event[]">
-                    </div>
-                    <div class="col-xs-1">
-                        <i class="fa fa-trash text-danger" id="delete"></i>
-                    </div>
-                    <span id="events"></span>
+                    <div id="events"></div>
                     <div class="form-group col-xs-12 text-center">
-                        <i class="fa fa-plus-sign"></i><i class="fa fa-minus-sign"></i>
+                        <i class="fa fa-plus-sign" id="event-add"></i>
                     </div>
                     <div class="form-group col-xs-12">
                         <span class="btn btn-info" id="event-submit">Submit</span>
                     </div>
                 </form>
             </div>
-            
+
             <hr class="featurette-divider">
             <div class="col-xs-12 col-sm-7">
-                
+
             </div>
             <div class="col-xs-12 col-sm-5">
-                
+
             </div>
         </div>
     </div>
-    <div id="loading modal" class="loading-box">
-        <div>
-        <i class="fa fa-circle-o-notch fa-spin"></i>        
+    <div id="loading-modal" class="modal" style="background: rgba(0,0,0,0); box-shadow:0; margin-top:6em;">
+        <div class="modal-dialog" style="background: rgba(0,0,0,0); box-shadow:0">
+            <div class="modal-content text-center" style="background: rgba(0,0,0,0); box-shadow:0">
+        <i class="fa fa-circle-o-notch fa-spin fa-5x text-danger"></i>
         </div>
     </div>
+    </div>
     <script>
+        var div=0;
         $('#event-submit').on('click',function(){
+            var request=encodeURIComponent('save')
             $.ajax({
-                url:"http://palmcanyon.org/save.php",
-                data:$('#event-form').serialize()
+                url:"http://palmcanyon.org/cms.php",
+                data:$('#event-form').serialize()+request
                 .done(function(data){
                     $('#alert-message').html(data)
                     $('#alert').remveClass('hidden')
@@ -84,19 +74,48 @@
                 })
             })
         })
-        $.on('ready',function(){
-            $('#loadingModal').modal({
+        $('#event-add').on('click',function(){
+            var eventDiv="<div id='"+div+"'>
+                <div class='form-group col-xs-5'>
+                        <label for='"+div+"event-name'>Event Name</label>
+                        <input id='"+div+"event-name' name='event[]'>
+                    </div>
+                    <div class='form-group col-xs-2'>
+                        <label for='"+div+"event-date'>Event Date</label>
+                        <input id='"+div+"event-date' name='event[]'>
+                    </div>
+                    <div class='form-group col-xs-4'>
+                        <label for='"+div+"event-date-name'>Event Date Name</label>
+                        <input id='"+div+"event-date-name' name='event[]''>
+                    </div>
+                    <div class='col-xs-1'>
+                        <i class='fa fa-trash text-danger' class='event-delete' value='"+div+"'></i>
+                    </div></div>"
+            div--
+            $('#events').append(eventDiv)
+        })
+        $('.event-delete').on('click',function(){
+            var divID = $(this).val()
+            $('#'+divID).html('')
+        })
+        $(function(){
+            console.log("AJAX")
+            $('#loading-modal').modal({
                 backdrop:'static',
                 keyboard:false,
                 show:true
             })
+            var request=encodeURIComponent('load')
             $.ajax({
-                url:"http://palmcanyon.org/load.php"
-                .done(function(data){
-                    
-                })
+                type: "POST",
+                url:"http://palmcanyon.org/cms.php",
+                data: request
+
             })
-            //$('#loadingModal').modal('hide')
+            .done(function(data){
+                    $('#events').html(data)
+                })
+            $('#loading-modal').modal('hide')
         })
     </script>
 
