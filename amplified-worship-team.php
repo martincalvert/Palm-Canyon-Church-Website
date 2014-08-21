@@ -12,14 +12,14 @@
           <p>Worship Leader — Vocals & Drums</p>
           <p><a class="btn btn-info" data-target="#carrieModal" data-toggle="modal">More About Carrie <i class="fa fa-expand"></i></a></p>
         </div><!-- /. col-sm-6 col-xs-12 -->
-        
+
         <div class=" col-sm-4 col-xs-12">
           <img class="img-circle" src="assets/img/cindy2.jpg">
           <h2>Cindy Martin</h2>
           <p>Vocals & Keys</p>
           <p><a class="btn btn-info" data-target="#cindyModal"  data-toggle="modal">More About Cindy <i class="fa fa-expand"></i></a></p>
         </div><!-- /. col-sm-6 col-xs-12 -->
-        
+
         <div class=" col-sm-4 col-xs-12">
           <img class="img-circle"  src="assets/img/braden.jpg">
           <h2>Braden Schaidt</h2>
@@ -35,7 +35,7 @@
           <p>Vocals</p>
           <p><a class="btn btn-info" data-target="#stephModal"  data-toggle="modal">More About Steph <i class="fa fa-expand"></i></a></p>
         </div><!-- /. col-sm-6 col-xs-12 -->
-        
+
         <div class=" col-sm-4 col-xs-12">
           <img class="img-circle" src="assets/img/paul.jpg">
           <h2>Paul Witt</h2>
@@ -49,7 +49,7 @@
           <p><a class="btn btn-info" data-target="#leslieModal"  data-toggle="modal">More About Leslie <i class="fa fa-expand"></i></a></p>
         </div><!-- /. col-sm-6 col-xs-12 -->
       </div>
-      
+
       <div class="row text-center">
         <!-- /. col-sm-6 col-xs-12 -->
         <div class=" col-sm-4 col-xs-12">
@@ -72,7 +72,7 @@
         </div>
       </div>
 
-      
+
       <div class="row text-center">
       <div class=" col-sm-4 col-xs-12">
           <img class="img-circle" src="assets/img/kay.png">
@@ -94,7 +94,7 @@
         </div><!-- /. col-sm-6 col-xs-12 -->
         <!-- /. col-sm-6 col-xs-12 -->
       </div>
-      
+
       <div class="row text-center">
       <div class="col-sm-4 col-xs-12">
           <img class="img-circle" src="assets/img/teri.jpg">
@@ -109,27 +109,10 @@
           <p><a class="btn btn-info" data-target="#mikeModal"  data-toggle="modal">More About Mike <i class="fa fa-expand"></i></a></p>
         </div><!-- /. col-sm-6 col-xs-12 -->
         <div class=" col-sm-4 col-xs-12">
-          <img class="img-circle" src="assets/img/lance.png">
-          <h2>Lance Trevathan</h2>
-          <p>Bass Guitar</p>
-          <p><a class="btn btn-info" data-target="#lanceModal"  data-toggle="modal">More About Lance <i class="fa fa-expand"></i></a></p>
-        </div>
-        <!-- /. col-sm-6 col-xs-12 -->
-        <!-- /. col-sm-6 col-xs-12 -->
-      </div>
-            
-      <div class="row text-center">
-      <div class="col-xs-12 col-sm-6">
           <img class="img-circle" src="assets/img/steve.jpg">
           <h2>Steve Velasquez</h2>
           <p>Bass Guitar</p>
           <p><a class="btn btn-info" data-target="#steveModal"  data-toggle="modal">More About Steve <i class="fa fa-expand"></i></a></p>
-        </div>
-        <div class="col-xs-12 col-sm-6">
-          <img class="img-circle"  src="assets/img/thomas.jpg">
-          <h2>Thomas Graham</h2>
-          <p>Sound (Tech Team)</p>
-          <p><a class="btn btn-info" data-target="#thomasModal"  data-toggle="modal">More About Thomas <i class="fa fa-expand"></i></a></p>
         </div>
       </div>
 
@@ -141,16 +124,16 @@
       <hr class="featurette-divider">
 
       <!-- /END THE FEATURETTES -->
-<div id="leslieModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
- <div class="modal-dialogue"><div class="modal-content">
+<div id="leslieModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+ <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Leslie Hitchcock<span class="muted"> Vocals & Keys</span></h3>
   		</div>
-        
+
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/leslie.jpg">
         <img class="img-polaroid" src="assets/img/leslie2.jpg">
-    		
+
     		<p><b>Favorite Song:</b> Arms Of Love & Majesty</p>
             <p><strong>Favorite Bible Verses:</strong> Psalm 28:7 & Psalm 98</p>
             <p><strong>Favorite Band:</strong> Ginny Owens & Third Day</p>
@@ -161,9 +144,10 @@
   		</div>
 	</div>
     <!-- Modal Bill -->
-	<div id="bradenModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-         <div class="modal-dialogue"><div class="modal-content">
-  		<div class="modal-header">
+	<div id="bradenModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+    		<div class="modal-header">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Braden Schaidt<span class="muted"> Drums</span></h3>
   		</div>
@@ -178,8 +162,8 @@
   		</div>
 	</div>
     <!-- Modal Bill -->
-	<div id="stephModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-         <div class="modal-dialogue"><div class="modal-content">
+	<div id="stephModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+         <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Stephanie Schaidt<span class="muted"> Vocals</span></h3>
@@ -194,8 +178,8 @@
                 </div>
   		</div>
 	</div>
-    <div id="adamModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+    <div id="adamModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Adam Jacobs<span class="muted"> Vocals</span></h3>
@@ -212,8 +196,8 @@
 	</div>
 
     <!-- Modal Bill -->
-	<div id="paulModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-         <div class="modal-dialogue"><div class="modal-content">
+	<div id="paulModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+         <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Paul Witt<span class="muted"> Electric Guitar</span></h3>
@@ -229,15 +213,15 @@
   		</div>
 	</div>
     <!-- Modal Cindy -->
-	<div id="cindyModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-         <div class="modal-dialogue"><div class="modal-content">
+	<div id="cindyModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+         <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3  class="text-center">Cindy Martin <span class="muted"> Vocals & Keys</span></h3>
   		</div>
   		<div class="modal-body">
         <img class="img-polaroid" src="assets/img/cindy2.jpg">
-    		
+
         	<img class="img-polaroid" src="assets/img/cindy.jpg">
     		<p><strong>Favorite Song:</strong> Your Name High - Hillsong United</p>
             <p><strong>Favorite Bible Verses:</strong> Psalm 28:7</p>
@@ -249,8 +233,8 @@
   		</div>
 	</div>
     <!-- Modal Carrie -->
-	<div id="carrieModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-         <div class="modal-dialogue"><div class="modal-content">
+	<div id="carrieModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+         <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3  class="text-center">Carrie Martin <span class="muted">Worship Leader</span></h3>
@@ -266,9 +250,9 @@
         </div>
   		</div>
 	</div>
-    
-    <div id="jonathanModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+
+    <div id="jonathanModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Jonathan Synnott <span class="muted"> Guitar</span></h3>
@@ -284,8 +268,8 @@
     </div>
   		</div>
 	</div>
-    <div id="joanModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+    <div id="joanModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Joan Warburg <span class="muted"> Vocals </span></h3>
@@ -300,8 +284,8 @@
     </div>
   		</div>
 	</div>
-    <div id="teriModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+    <div id="teriModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Teri Solorio<span class="muted"> Sound Board </span></h3>
@@ -312,15 +296,15 @@
             <p><strong>Favorite Bible Verses:</strong> Joshua 1:9</p>
             <p><strong>Favorite Band:</strong> Hillsong, Amplified, Casting Crowns</p>
             <p><strong>Favorite Drink:</strong> Good homemade coffee and Dr. Pepper</p>
-            
+
             <p><strong>Favorite Cartoon:</strong> Speedy Gonzalez</p>
-                               
+
   		</div>
     </div>
   		</div>
 	</div>
-    <div id="markModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+    <div id="markModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Mark Synnott<span class="muted"> Drums </span></h3>
@@ -336,8 +320,8 @@
     </div>
   		</div>
 	</div>
-    <div id="katieModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+    <div id="katieModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Katie Malana<span class="muted"> Vocals</span></h3>
@@ -353,8 +337,8 @@
     </div>
   		</div>
 	</div>
-    <div id="johnModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+    <div id="johnModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">John McGroovy<span class="muted"> Acoustic Guitar</span></h3>
@@ -370,8 +354,8 @@
     </div>
   		</div>
 	</div>
-    <div id="steveModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+    <div id="steveModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Steve Velasquez<span class="muted"> Bass Guitar</span></h3>
@@ -387,8 +371,8 @@
     </div>
   		</div>
 	</div>
-    <div id="mikeModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+    <div id="mikeModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Mike Park<span class="muted"> Lights (Tech Team)</span></h3>
@@ -404,43 +388,9 @@
     </div>
   		</div>
 	</div>
-    <div id="lanceModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
-  		<div class="modal-header text-center">
-    		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-    		<h3 class="text-center">Lance Trevathan<span class="muted"> </span></h3>
-  		</div>
-  		<div class="modal-body">
-        	<img class="img-polaroid" src="assets/img/lance.png">
-    		<p><strong>Favorite Song:</strong> How He Loves, 10,000 Reasons (Bless The Lord)</p>
-            <p><strong>Favorite Bible Verses:</strong> Matthew 6:6, Romans 12: 1-2</p>
-            <p><strong>Favorite Band:</strong> For Today, Red, POD, David Crowder, Jesus Culture, Bethel, and all 80's Hair Metal</p>
-            <p><strong>Favorite Genre:</strong> Christian, Rock and Metal</p>
-            <p><strong>Occupation:</strong> Retired U.S. Army (22 years)</p>
-  		</div>
-    </div>
-  		</div>
-	</div>
-    <div id="thomasModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
-  		<div class="modal-header text-center">
-    		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-    		<h3 class="text-center">Thomas Graham<span class="muted"> Lights (Tech Team)</span></h3>
-  		</div>
-  		<div class="modal-body">
-        	<img class="img-polaroid" src="assets/img/thomas.png">
-    		<p><strong>Favorite Song:</strong> Embrace</p>
-            <p><strong>Favorite Bible Verses:</strong> Galations 2:20</p>
-            <p><strong>Favorite Band:</strong> Audioslave</p>
-            <p><strong>Favorite Drink:</strong> Unsweetened Ice Tea</p>
-            <p><strong>Favorite Cartoon:</strong> Looney Tunes</p>
-  		</div>
-    </div>
-  		</div>
-	</div>
 
-    <div id="artModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+    <div id="artModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Art Giovannini<span class="muted"> Sound Operator</span></h3>
@@ -455,9 +405,9 @@
   		</div></div>
   		</div>
 	</div>
-    
-    <div id="kayModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-     <div class="modal-dialogue"><div class="modal-content">
+
+    <div id="kayModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog"><div class="modal-content">
   		<div class="modal-header text-center">
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Kay Thomas<span class="muted"> Vocals</span></h3>
@@ -474,7 +424,7 @@
 	</div>
 
 	<? include 'footer.php' ?>
-	
+
 <script>
 document.title=" Amplified Worship Team"
 </script>

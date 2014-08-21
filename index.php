@@ -14,21 +14,11 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img class="img-responsive" src="assets/img/upcoming.jpg" alt="Current series image">
+          <img class="img-responsive" src="assets/img/current.jpg" alt="Current series image">
           <div class="container">
             <div class="carousel-caption">
               <h1>Current Series!</h1>
               <p class=""></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <img class="img-responsive" src="assets/img/school.jpg" alt="School Supply Drive">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>School Supply Drive</h1>
-              <p class="">We are collecting school supplies for Armada Elementary!</p>
-              <a class="btn btn-large btn-danger" href="assets/School_Supplies_Drive.pdf">Supplies List </a>
             </div>
           </div>
         </div>

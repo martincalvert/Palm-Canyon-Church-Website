@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <? include 'head.php' ?>
-<body>
+<body class='kids'>
  <? include 'pc-kids-navbar.php' ?>
 
     <div class="container marketing space">
@@ -24,48 +24,48 @@
       <hr class="featurette-divider">
       <? include 'features.php' ?>
       <hr class="featurette-divider">
-      <div id="superModal" class="modal hide" tabindex="-1" role="dialog" aria-hidden="true">
+      <div id="superModal" class="modal" tabindex="-1" role="dialog" aria-hidden="true">
        <div class="modal-dialog modal-lg">
 	<div class="modal-content">
 	 <div class="modal-body text-center">
-	  
-	 </div> 
+
+	 </div>
         </div>
        </div>
       </div>
-      <div id="pandaModal" class="modal hide" tabindex="-1" role="dialog" aria-hidden="true">
+      <div id="pandaModal" class="modal " tabindex="-1" role="dialog" aria-hidden="true">
        <div class="modal-dialog modal-lg">
 	<div class="modal-content">
 	 <div class="modal-body text-center">
-	  
-	 </div> 
+
+	 </div>
         </div>
        </div>
       </div>
-      <div id="braveModal" class="modal hide" tabindex="-1" role="dialog" aria-hidden="true">
+      <div id="braveModal" class="modal " tabindex="-1" role="dialog" aria-hidden="true">
        <div class="modal-dialog modal-lg">
 	<div class="modal-content">
 	 <div class="modal-body text-center">
-	  
-	 </div> 
+
+	 </div>
         </div>
        </div>
       </div>
-      <div id="seasModal" class="modal hide" tabindex="-1" role="dialog" aria-hidden="true">
+      <div id="seasModal" class="modal" tabindex="-1" role="dialog" aria-hidden="true">
        <div class="modal-dialog modal-lg">
 	<div class="modal-content">
 	 <div class="modal-body text-center">
-	  
-	 </div> 
+
+	 </div>
         </div>
        </div>
       </div>
-      <div id="rockModal" class="modal hide" tabindex="-1" role="dialog" aria-hidden="true">
+      <div id="rockModal" class="modal" tabindex="-1" role="dialog" aria-hidden="true">
        <div class="modal-dialog modal-lg">
 	<div class="modal-content">
 	 <div class="modal-body text-center">
-	  
-	 </div> 
+
+	 </div>
         </div>
        </div>
       </div>

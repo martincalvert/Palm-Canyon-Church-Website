@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
  <? include 'head.php' ?>
-<body>
+<body class='kids'>
  <? include 'navbar.php' ?>
     <div class="container marketing space">
     <div class="col-xs-12 text-center"><h1>How To Follow Christ</h1></div>
@@ -36,7 +36,7 @@
 	   <div class="modal-body text-center" id="videoModal">
 	     <iframe width="853" height="480" src="//www.youtube.com/embed/Q51yi_HxNkY" frameborder="0" allowfullscreen></iframe>
 	   </div>
-     
+
 	 </div><!-- /.modal-content -->
        </div><!-- /.modal-dialog -->
      </div><!-- /.modal -->

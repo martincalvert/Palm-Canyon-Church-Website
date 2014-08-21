@@ -1,15 +1,14 @@
 <!doctype html>
 <html>
- <? include 'head.php' ?>
+  <? include 'head.php' ?>
 <body>
  <? include 'navbar.php'?>
     <div class="container marketing space color">
     <div class="col-xs-12 text-center"><h1>Life Groups</h1></div>
-      <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-xs-12 col-sm-2">
         <h4>Live Life With Help</h4>
-        <p>Take a peak at our list of life groups, & find one that fits your life! Life groups are always waiting for some new Christ followers to join them & help them on their walk through life. 
+        <p>Take a peak at our list of life groups, & find one that fits your life! Life groups are always waiting for some new Christ followers to join them & help them on their walk through life.
         </div>
         <div class="col-xs-12 col-sm-10">
         <table class="table table-striped table-bordered table-hover">
@@ -58,14 +57,14 @@
         <td>951-656-4589</td>
         <td>7pm | Every Other Week</td>
         </tr>
-        <tr>        
+        <tr>
         <td>Thursday</td>
         <td>PC3 Ladies' Coffee Connection<br><a href="#6" role="button" data-toggle="modal">Tabitha Stutzman</a></td>
         <td>25550 Ironwood Ave.,<br> Moreno Valley, 92557</td>
         <td>951-815-2128</td>
         <td>9am | Weekly Sept-June</td>
         </tr>
-        <tr>        
+        <tr>
         <td>Thursday</td>
         <td><a href="#10" role="button" data-toggle="modal">CJ & Leslie Hitchcock</a></td>
         <td>10209 Canyon Vista Rd.,<br> Moreno Valley, 92557</td>
@@ -79,14 +78,14 @@
         <td>951-683-7645</td>
         <td>7pm | Weekly</td>
         </tr>
-        <tr>        
+        <tr>
         <td>Friday</td>
         <td><a href="#7" role="button" data-toggle="modal">Kathy Potts</a></td>
         <td>13115 Kentl& Ln.,<br> Moreno Valley, 92553</td>
         <td>951-242-1800</td>
         <td>7pm | Every Other Week</td>
         </tr>
-        <tr>        
+        <tr>
         <td>Friday</td>
         <td><a href="#8" role="button" data-toggle="modal">John & Gina Torrijos</a></td>
         <td>23815 Yellowhill Terr.,<br> Moreno Valley</td>
@@ -97,9 +96,9 @@
         </table>
         </div>
       </div><!-- /.row -->
-      
-      
-      
+
+
+
       <hr><!--MEET THE LEADERS SECTION-->
       <div class="row">
       <div class="col-xs-12 text-center"><h1>Meet The Leaders</h1></div>
@@ -132,7 +131,7 @@
         </div>
         </div>
         <!--END ROW 1-->
-        
+
         <!--ROW 2-->
         <div class="row">
         <div class="col-xs-12 col-sm-4">
@@ -141,7 +140,7 @@
           <p>Wednesdays @ 7pm</p>
           <p><a class="btn btn-danger" href="#4" role="button" data-toggle="modal">Meet The Martin's &raquo;</a></p>
         </div><!-- /.col-xs-12 col-sm-4 -->
-        
+
         <div class="col-xs-12 col-sm-4">
           <img class="img-circle" src="assets/img/johnaud.jpg" width="270">
           <h2>John & Audrey Loera</h2>
@@ -156,7 +155,7 @@
         </div>
         </div>
         <!--END ROW 2-->
-        
+
         <!--ROW 3-->
         <div class="row">
         <div class="col-xs-12 col-sm-4">
@@ -165,7 +164,7 @@
           <p>Thursdays @ 6:45pm</p>
           <p><a class="btn btn-danger" href="#10" role="button" data-toggle="modal">Meet The Hitchcocks &raquo;</a></p>
         </div><!-- /.col-xs-12 col-sm-4 -->
-        
+
         <!-- /.col-xs-12 col-sm-4 -->
         <div class="col-xs-12 col-sm-4">
           <img class="img-circle"  src="assets/img/johngina.jpg" width="180">
@@ -186,11 +185,11 @@
       <hr class="featurette-divider">
        <? include 'features.php' ?>
       <hr class="featurette-divider">
-      
+
       <!--MODALS-->
-      
+
       <!-- PAUL & MELODY MODAL-->
-      
+
       <div id="1" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
        <div class="modal-dialog">
 	 <div class="modal-content">
@@ -217,7 +216,7 @@
        </div>
       </div>
 	<!-- END PAUL ^ MELODY MODAL-->
-    
+
     <div id="3" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
 	 <div class="modal-content">
@@ -227,14 +226,14 @@
   		</div>
                 <div class="modal-body">
         <img class="img-polaroid" src="assets/img/mikeKim.jpg" width="210">
-              
+
           </div>
 	 </div>
 	</div>
         </div>
-    
-    
-    
+
+
+
     <!--CURTIS & RITA MODAL-->
 <div id="2" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -245,7 +244,7 @@
   		</div>
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/curtrita.JPG">
     		<ul>
-            <li>We have members of PCCC for over 15 years.</li> 
+            <li>We have members of PCCC for over 15 years.</li>
             <li>Curtis has been the Equipment Superintendent for the City of Irvine for over 30 years.</li>
             <li> We have been married over 40 years.</li>
             <li>We enjoying entertaining at our home.</li>
@@ -261,7 +260,7 @@
 	</div>
 	</div>
     <!-- END CURTIS & RITA MODAL-->
-    
+
     <!--PETE & GRACE MODAL-->
 <div id="9" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -270,18 +269,8 @@
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 id="myModalLabel">Pete & Grace Loza</h3>
   		</div>
-  		<div class="modal-body"><img class="img-polaroid" src="assets/img/pete.jpg" width="210">
-    		<ul>
-    		<li>We don't like the Dodgers</li>
-<li>We have a daughter named Lucy and son Jack on the way</li>
-<li>CJ has lived in MoVal his whole life</li>
-<li>Leslie has gone to PC3 since she was 5</li>
-<li>We went to our senior prom together</li>
-<li>Leslie plays keyboard on the worship team</li>
-<li>CJ is the starting right-center fielder on the PC3 softball team</li>
-<li>Leslie is the bookkeeper for PC3</li>
-<li>we both like God</li>
-<li>both believe that if Christ is your foundation, anything is possible</li></ul>
+  		<div class="modal-body">
+        <img class="img-polaroid" src="assets/img/pete.jpg" width="210">
   		</div>
 	 </div>
 	</div>
@@ -296,7 +285,7 @@
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 id="myModalLabel">CJ & Leslie Hitchcock</h3>
   		</div>
-        
+
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/cjles.jpg" width="210">
     		<ul>
 		  <li>We don't like the Dodgers</li>
@@ -314,7 +303,7 @@
 		       </div>
 	</div>
     <!-- END CJ & LESLIE MODAL-->
-     
+
 
     <!-- Tabitha MODAL-->
         <div id="6" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -324,7 +313,7 @@
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 id="myModalLabel">Tabitha Stutzman<span class="muted"> Coffee Connection</span></h3>
   		</div>
-        
+
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/tabitha.jpg">
     		<ul>
     		<li>I'm a mom</li>
@@ -340,7 +329,7 @@
 		</div>
 	</div>
     <!-- END TABITHA MODAL-->
-    
+
     <!-- JOHN & GINA MODAL-->
 <div id="8" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   		       <div class="modal-dialog">
@@ -349,7 +338,7 @@
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 id="myModalLabel">John & Gina Torrijos</span></h3>
   		</div>
-        
+
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/johngina.jpg" width="210">
     		<ul>
     		<li>John & Gina are high school sweethearts that met when he was 15 & she was 14.</li>
@@ -367,8 +356,8 @@
 		       </div>
 	</div>
     <!--END JOHN & GINA MODAL-->
-    
-    
+
+
     <!-- JOHN & AUDREY MODAL-->
 <div id="5" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   		       <div class="modal-dialog">
@@ -377,7 +366,7 @@
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 id="myModalLabel">John & Audrey Loera</span></h3>
   		</div>
-        
+
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/johnaud.jpg" width="210">
     		<ul>
     		<li>Live in Riverside</li>
@@ -405,7 +394,7 @@
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 id="myModalLabel">Kathy Potts</h3>
   		</div>
-        
+
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/kathy.jpg">
     		<ul>
     		<li>Most blessed momma in the world of 6!!!!</li>
@@ -423,8 +412,8 @@
 		       </div>
 	</div>
     <!--END KATHY MODAL-->
-    
-    
+
+
     <!-- BILL & CINDY MODAL -->
     <div id="4" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
@@ -433,7 +422,7 @@
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 id="myModalLabel">Bill & Cindy Martin</h3>
   		</div>
-        
+
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/billcind.png" width="210">
     		<ul>
     		<li>Ok…as you all know Bill’s favorite food is…..EVERYTHING!</li>
