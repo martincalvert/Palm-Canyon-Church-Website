@@ -10,8 +10,8 @@
     overflow: hidden;
 }
 
-.Flexible-container iframe,   
-.Flexible-container object,  
+.Flexible-container iframe,
+.Flexible-container object,
 .Flexible-container embed {
     position: absolute;
     top: 0;
@@ -75,13 +75,6 @@ body {
 .carousel .item {
   height: 500px;
   background-color: #777;
-}
-.carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 500px;
 }
 
 
@@ -165,7 +158,7 @@ table.sermon_table {
 	border: 1px solid #E5E5E5;
 	margin: auto;
 	}
-	
+
 td.td1 {
 	border: 1px solid #E5E5E5;
 	width:27.5%;
@@ -175,7 +168,7 @@ td.td2 {
 	border: 1px solid #E5E5E5;
 	width:47.5%;
 	}
-	
+
 td.td3 {
 	border: 1px solid #E5E5E5;
 	width:20%;
@@ -190,7 +183,7 @@ td.td3 {
 	padding-bottom: 10px;
 	text-align: left;
 	}
-    
+
 h3.sermon_series_title {
 	margin-left: 30px;
 	}

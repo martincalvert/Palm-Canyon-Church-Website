@@ -1,9 +1,9 @@
 <!doctype html>
 <html><!-- InstanceBegin template="/Templates/default.dwt" codeOutsideHTMLIsLocked="false" -->
 <? include 'head.php' ?>
-<body>
-<? include 'navbar.php' ?>
-    <div class="container marketing space">
+<body class='kids'>
+<? include 'pc-kids-navbar.php' ?>
+    <div class="container marketing space color myelement">
     <div class="col-xs-12"><center><h1>Reading Your Bible Is Fun!</h1><center></div>
       <!-- Three columns of text below the carousel -->
       <div class="row">

@@ -2,16 +2,16 @@
 <html>
  <? include 'head.php' ?>
 <body class="kids">
- 
+
 <? include 'pc-kids-navbar.php'?>
-    
+
     <div class="container marketing space color myelement">
     <div class="col-xs-12 text-center"><h1>PC3 Kids!</h1></div>
       <div class="col-xs-12 col-sm-3 col-sm-offset-9"><a href="pc-kids-how-to-follow-christ.php" class="btn btn-success btn-block height">Baptism</a></div>
       <div class="col-xs-12 col-sm-3 col-sm-offset-9"><a href="pc-kids-how-to-follow-christ.php" class="btn btn-info btn-block height">How To Follow Christ</a></div>
       <div class="col-xs-12 col-sm-3 col-sm-offset-9"><a href="pc-kids-overview.php" class="btn btn-success btn-block height">Child Dedication</a></div>
       <div class="row">
-       <div class="col-xs-12"><h2>What To Expect</h2></div>
+       <div class="col-xs-12" style="margin-top:15em;"><h2>What To Expect</h2></div>
        <div class="col-sm-5 col-xs-12"><h3>First Time at PC Kids?</h3>
         A friendly host will be happy to show you to the area your child will be enjoying the morning. Nursery and Preschool classes are near the main auditorium. Grade School, known as “The Rock” for kids, is in the modular. We will ask for the following personal information on the provided registration card: family member’s names, children’s names and birthdates, family address, phone number, and any special instructions (allergies, special needs) for your child. On your way home, be sure to ask your child: “Did you have fun?” and “What did you learn today?”. Kids love fun! We realize that when children have fun at church, they can’t wait to come back. We value creating fun ways for children to learn about Jesus.
        </div>
@@ -25,7 +25,7 @@
       </div>
         <hr>
         <div class="row">
-        
+
         <div class="col-xs-12 col-sm-3"><h3>A Special Note</h3>If for some reason your child were to need you during the service, your last four digits of your phone number would appear on the screens in the auditorium.  We will also text you if you specify on sign-in sheet.  We would ask that you exit the auditorium immediately and look for a staff member who will direct you to your child’s room.
 	</div>
         <div class="col-xs-12 col-sm-3"><h3>What Should I Expect When I Return to PC Kids?</h3>

@@ -73,11 +73,11 @@ div.myelement{
   background-color: #777;
 }
 .carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 500px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 100%;
 }
 
 
@@ -1202,8 +1202,6 @@ img {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  width: 100% \9;
-  max-width: 100%;
   height: auto;
 }
 .img-rounded {

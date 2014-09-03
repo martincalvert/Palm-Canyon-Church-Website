@@ -1,9 +1,9 @@
 <!doctype html>
 <html>
  <? include 'head.php' ?>
-<body>
-<? include 'navbar.php' ?>
-    <div class="container marketing space">
+<body class='kids'>
+<? include 'pc-kids-navbar.php' ?>
+    <div class="container marketing space myelement">
     <div class="col-xs-12 text-center"><h1>Fall Festival</h1></div>
       <!-- Three columns of text below the carousel -->
       <div class="row">
@@ -15,6 +15,7 @@
         <h3>This Year!</h3>
         <a class="btn btn-large btn-info" href="#impactModal" role="button" data-toggle="modal">Video</a>
       </div><!-- /.row -->
+    </div>
       <!-- START THE FEATURETTES -->
       <hr class="featurette-divider">
       <? include 'features.php' ?>

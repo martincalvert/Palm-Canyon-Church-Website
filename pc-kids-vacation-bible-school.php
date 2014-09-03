@@ -4,7 +4,7 @@
 <body class='kids'>
  <? include 'pc-kids-navbar.php' ?>
 
-    <div class="container marketing space">
+    <div class="container marketing space color myelement">
     <div class="col-xs-12 text-center"><h1>Vacation Bible School!</h1></div>
       <div class="row">
         <div class="col-xs-12 col-sm-6">
@@ -18,6 +18,7 @@
 	<a class="btn btn-large btn-info" data-target="#pandaModal" role="button" data-toggle="modal"><i class="fa fa-film"></i> Kung Fu Panda</a>
 	<a class="btn btn-large btn-info" data-target="#seasModal" role="button" data-toggle="modal"><i class="fa fa-film"></i> High Seas</a>
       </div><!-- /.row -->
+    </div>
 
       <!-- START THE FEATURETTES -->
 

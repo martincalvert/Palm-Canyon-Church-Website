@@ -2,8 +2,8 @@
 <html>
  <? include 'head.php' ?>
 <body class='kids'>
- <? include 'navbar.php' ?>
-    <div class="container marketing space">
+ <? include 'pc-kids-navbar.php' ?>
+    <div class="container marketing space myelement">
     <div class="col-xs-12 text-center"><h1>How To Follow Christ</h1></div>
       <!-- Three columns of text below the carousel -->
       <div class="row">

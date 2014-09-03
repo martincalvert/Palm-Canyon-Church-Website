@@ -1,11 +1,11 @@
 <!doctype html>
 <html>
 <? include 'head.php' ?>
-<body>
+<body class='kids'>
 
 <? include 'pc-kids-navbar.php' ?>
 
-    <div class="container marketing space color">
+    <div class="container marketing space color myelement">
     <div class="col-xs-12"><h1 class="text-center">PC Kids Services</h1></div>
       <div class="row" id="sunday">
 	<h2>Sunday Services</h2>

@@ -11,20 +11,20 @@
         <div class="col-xs-12 col-sm-4">
           <img class="img-circle"  src="assets/img/bill.jpg">
           <h2>Bill Martin</h2>
-          <p>Head Pastor of Palm Canyon Communtiy Church</p>
-          <p><a class="btn" data-target="#billModal" role="button" data-toggle="modal">More About Bill &raquo;</a></p>
+          <p>Lead Pastor</p>
+          <p><a class="btn btn-info" data-target="#billModal" role="button" data-toggle="modal">More About Bill &raquo;</a></p>
         </div><!-- /.span4 -->
         <div class="col-xs-12 col-sm-4">
           <img class="img-circle" src="assets/img/cindy.jpg">
           <h2>Cindy Martin</h2>
-          <p>Children Ministries Leader at Palm Canyon Community Church</p>
-          <p><a class="btn" data-target="#cindyModal" role="button" data-toggle="modal">More About Cindy &raquo;</a></p>
+          <p>Children's Pastor</p>
+          <p><a class="btn btn-info" data-target="#cindyModal" role="button" data-toggle="modal">More About Cindy &raquo;</a></p>
         </div><!-- /.span4 -->
         <div class="col-xs-12 col-sm-4">
           <img class="img-circle" src="assets/img/carrie.jpg">
           <h2>Carrie Jacobs</h2>
-          <p>Worship Leader at Palm Canyon Community Church</p>
-          <p><a class="btn" data-target="#carrieModal" role="button" data-toggle="modal">More About Carrie &raquo;</a></p>
+          <p>Creative Arts Director & Worship Leader</p>
+          <p><a class="btn btn-info" data-target="#carrieModal" role="button" data-toggle="modal">More About Carrie &raquo;</a></p>
         </div><!-- /.span4 -->
       </div><!-- /.row -->
 
@@ -32,14 +32,14 @@
         <div class="col-xs-12 col-sm-6">
           <img class="img-circle" src="assets/img/jacob.jpg">
           <h2>Jacob Malana</h2>
-          <p>Youth Pastor at Palm Canyon Community Church</p>
-          <p><a class="btn" data-target="#jacobModal" role="button" data-toggle="modal">More About Jacob &raquo;</a></p>
+          <p>Student Ministries Pastor</p>
+          <p><a class="btn btn-info" data-target="#jacobModal" role="button" data-toggle="modal">More About Jacob &raquo;</a></p>
         </div><!-- /.span4 -->
         <div class="col-xs-12 col-sm-6">
           <img class="img-circle" src="assets/img/leslie.jpg">
           <h2>Leslie Hitchcock</h2>
-          <p>Bookkeeper at Palm Canyon Community Church</p>
-          <p><a class="btn" data-target="#leslieModal" role="button" data-toggle="modal">More About Leslie &raquo;</a></p>
+          <p>Accountant, Office Manager & Assistant to Lead Pastor</p>
+          <p><a class="btn btn-info" data-target="#leslieModal" role="button" data-toggle="modal">More About Leslie &raquo;</a></p>
         </div><!-- /.span4 -->
       </div><!-- /.row -->
 
@@ -50,13 +50,12 @@
 	 <div class="modal-content">
 	  <div class="modal-header">
 	   <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-	   <h1>Bill Martin<span class="text-muted"> Head Paster</span></h1>
+	   <h1>Bill Martin<span class="text-muted"> Lead Paster</span></h1>
 
 	  </div>
 	   <div class="modal-body text-center" id="videoModal">
-	     <h2>I LOVE THE MICHIGAN WOLVERINES!</h2>
+      Bill joined the movement @ Palm Canyon in 2000.  Bill has been a pastor since 1983 serving churches in Denver, New Orleans, the San Francisco bay area before moving to world-famous Moreno Valley, CA.  Bill has been married to his bride Cindy since 1982 and together they have 2 adult children (although it didn’t start that way) - a son (Wes) and daughter (Carrie) and a toy poodle named Romeo.  Bill is an Ohio State fan having graduated with a B.S. degree in Production & Operations Management in 1982.  He also graduated with a Master of Divinity degree specializing in New Testament & preaching in 1993 from Denver Seminary.  In addition to ministry Bill loves to work out, loves to travel and loves to eat.  His favorite food is anything seafood; really anything “food."  Though he doesn’t have the official union card, many would consider Bill a professional “buffet-er” (which may be the reason he has to work out).  Our guess is that several cruise lines have Bill’s picture as an example of a cruise passenger they lose money on.  Bill’s kids would consider him to be a cheapskate, but Bill prefers to be labeled as a “good steward of what God has entrusted to him.”  He does have an exceptional ability to find the best travel and cruise deals.  But when it comes to ministry, Bill is passionate about blowing up traditional church stereotypes and communicating (with OK humor and very good theology) the Bible in such a way that anyone could understand it and know what to do with it in their life.
 	   </div>
-
 	 </div><!-- /.modal-content -->
        </div><!-- /.modal-dialog -->
      </div><!-- /.modal -->

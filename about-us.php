@@ -9,11 +9,11 @@
   include 'navbar.php';
  ?>
 
-<div class="container marketing space color"> 
+<div class="container marketing space color">
     <div class="row">
     <h1 class="text-center">What do you believe?</h1>
     <div class="col-xs-12 col-sm-4">
-    	
+
 <h4>God</h4>God is the Creator and Ruler of the universe.  He has eternally existed in three persons: the Father, the Son, and the Holy Spirit.  These three are co-equal and are one God. <strong><small>(Genesis 1:1,26,27; 3:22, Psalm 90:2, Matthew 28:19, 1 Peter 1:2, 2 Corinthians 13:14)</small></strong></div>
 <div class="col-xs-12 col-sm-4">
 
@@ -67,16 +67,14 @@ Palm Canyon Church exists to reach people far from perfect and teach them to fol
 <li>Found people find people.</li>
 </ul>
     </div>
-    
+
     </div>
-    
+
     <hr class="featurette-divider" id="bill">
     <div class="row">
     <div class="col-xs-12">
     <h1 class="text-center">Who is Lead Pastor Bill Martin?</h1>
-    <p class="lead">Bill Martin became the lead pastor of Palm Canyon Church in 2000.  Bill is a gifted communicator and teacher, passionate about speaking the truth as plainly as possible so that everyone can understand the Bible’s message and know what to do with it.  God has given him a vision and a passion for helping people meet Jesus, and each week he shares God’s word and its practical application in our daily lives.
-
-Bill and his wife Cindy live in Moreno Valley, California.  They have a grown son who lives in Modesto, California and a married daughter who lives in Riverside, California.</p>
+    <p>Bill Martin became the lead pastor of Palm Canyon Church in 2000. Bill is a gifted communicator and teacher, passionate about speaking the truth as plainly as possible so that everyone can understand the Bible’s message and know what to do with it. God has given him a vision and a passion for helping people meet Jesus, and each week he shares God’s Word and its practical application in our daily lives. Bill and his wife Cindy live in Moreno Valley, California. They have a grown son who lives in Modesto, California and a married daughter who lives in Moreno Valley, California.</p>
 </div>
 </div>
 
@@ -84,7 +82,7 @@ Bill and his wife Cindy live in Moreno Valley, California.  They have a grown so
       <hr class="featurette-divider">
 
 <?php
- include 'feature_1.php'
+ include 'features.php'
 ?>
 
       <hr class="featurette-divider">

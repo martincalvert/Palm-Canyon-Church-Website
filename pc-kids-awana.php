@@ -4,7 +4,7 @@
 <body class='kids'>
 <? include 'pc-kids-navbar.php' ?>
 
-    <div class="container marketing space">
+    <div class="container marketing space myelement">
     <div class="col-xs-12 text-center"><h1>Awana</h1></div>
       <div class="row">
         <div class="col-xs-12 col-sm-6">

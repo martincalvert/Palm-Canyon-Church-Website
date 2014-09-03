@@ -36,18 +36,18 @@
        <div class="col-sm-5 col-sm-push-7 col-xs-12">
         <img class="featurette-image img-responsive" src="assets/img/beast500.png">
        </div>
-       <div class="col-sm-7 col-sm-5-pull col-xs-12">
+       <div class="col-sm-7 col-sm-pull-5 col-xs-12">
 	<h2 class="featurette-heading">Personal Spiritual Trainer (PST)</h2>
         <p class="lead">Leading others in accountable relationships where the Word of God can strengthen and prepare us for greater works.</p>
        </div>
       </div>
-        
+
         <hr class="featurette-divider" id="care">
 
-	
+
       <div class="row featurette">
        <div class="col-sm-5 col-xs-12">
-	<img class="featurette-image pull-left" src="assets/img/care_mono500.png">
+	<img class="featurette-image img-responsive" src="assets/img/care_mono500.png">
        </div>
        <div class="col-sm-7 sol-xs-12">
         <h2 class="featurette-heading">Care Team</h2>
@@ -59,7 +59,7 @@
         <div class="row featurette" >
 	 <div class="col-sm-5 col-sm-push-7 col-xs-12">
 	  <img class="featurette-image img-responsive" src="assets/img/hospitality500.png">
-	 </div> 
+	 </div>
 	 <div class="col-sm-7 col-sm-pull-5 col-xs-12">
 	  <h2 class="featurette-heading">Hospitality Team</h2>
 	  <p class="lead">The team of people around Palm Canyon on a Sunday making the experience more personal, more interactive, and more friendly through special Sunday themes, between service  activities and helping with major events <br>
@@ -70,15 +70,15 @@
 	  </p>
 	 </div>
 	</div>
-      
-      
+
+
 <hr class="featurette-divider">
  <? include 'feture_1.php' ?>
 
       <hr class="featurette-divider">
 
       <? include 'footer.php' ?>
-      
+
 <script>
  document.title+=" Adult Overview"
 

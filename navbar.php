@@ -12,16 +12,16 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            
-            
+
+
             <a class="navbar-brand visible-sm-block" href="index.php">PC3</a>
-            <a class="navbar-brand hidden-sm hidden-md" href="index.php">Palm Canyon Community Church</a>
+            <a class="navbar-brand hidden-sm hidden-md" href="index.php">Palm Canyon Community</a>
             <a class="navbar-brand visible-md-block" href="index.php">Palm Canyon</a>
           </div>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                
+
                  <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">I'm New <i class="fa fa-angle-double-down"></i></a>
                   <ul class="dropdown-menu">
@@ -51,7 +51,7 @@
                     <li><a href="amplified-worship-team.php">Amplified Worship</a></li>
                     <li><a href="adult-sermons.php">Sermons</a></li>
                     <li><a href="volunteering-opportunities.php">Volunteering</a></li>
-                    
+
                  <li><a href="tithing-and-donations.php">Giving</a></li>
                   </ul>
                 </li>
@@ -77,22 +77,18 @@
                     <li><a href="pc-kids-our-staff.php">Child Protecton Policy</a></li>
                   </ul>
                 </li>
-                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Life Groups<i class="fa fa-angle-double-down"></i></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="life-groups.php">Schedule</a></li>
-                    <li><a href="life-groups.php#leaders">Leaders & Group Info</a></li>
-                  </ul>
+                 <li>
+                  <a href="life-groups.php">Life Groups<i class="fa fa-angle-double-down"></i></a>
                 </li>
                  <li><a href="upcoming-events.php">Events</a></li>
                  <li><a href="missionary-opportunities.php">Missions</a></li>
               </ul>
             </div><!--/.nav-collapse -->
           </div><!-- /.navbar-inner -->
-          
+
         </div><!-- /.navbar -->
 
       </div> <!-- /.container -->
     </div><!-- /.navbar-wrapper -->
-    
-    
+
+

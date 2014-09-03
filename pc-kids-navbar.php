@@ -41,7 +41,7 @@
     		<h3 id="safetyLabel">Child Safety</h3>
   		</div>
   		<div class="modal-body lead">
-        <p>We believe that safety is vital as families entrust us with their children each week. Therefore, every childÕs name tag is matched to a parent-identification number, every volunteer is screened with an interview and background check.</p>
+        <p>We believe that safety is vital as families entrust us with their children each week. Therefore, every child's name tag is matched to a parent-identification number, every volunteer is screened with an interview and background check.</p>
   		</div>
     </div>
 		</div>
