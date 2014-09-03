@@ -11,19 +11,22 @@
         <div class="col-xs-12 col-sm-4">
           <img class="img-circle"  src="assets/img/bill.jpg">
           <h2>Bill Martin</h2>
-          <p>Lead Pastor</p>
+          <p class="text-muted">Lead Pastor</p>
+          <p><a href="mailto:bill@palmcanyon.org">bill@palmcanyon.org</a></p>
           <p><a class="btn btn-info" data-target="#billModal" role="button" data-toggle="modal">More About Bill &raquo;</a></p>
         </div><!-- /.span4 -->
         <div class="col-xs-12 col-sm-4">
           <img class="img-circle" src="assets/img/cindy.jpg">
           <h2>Cindy Martin</h2>
-          <p>Children's Pastor</p>
+          <p class="text-muted">Children's Pastor</p>
+          <a href="mailto:braden@palmcanyon.org">jacob@palmcanyon.org</a>
           <p><a class="btn btn-info" data-target="#cindyModal" role="button" data-toggle="modal">More About Cindy &raquo;</a></p>
         </div><!-- /.span4 -->
         <div class="col-xs-12 col-sm-4">
           <img class="img-circle" src="assets/img/carrie.jpg">
           <h2>Carrie Jacobs</h2>
-          <p>Creative Arts Director & Worship Leader</p>
+          <p class="text-muted">Creative Arts Director & Worship Leader</p>
+          <a href="mailto:cindy@palmcanyon.org">cindy@palmcanyon.org</a>
           <p><a class="btn btn-info" data-target="#carrieModal" role="button" data-toggle="modal">More About Carrie &raquo;</a></p>
         </div><!-- /.span4 -->
       </div><!-- /.row -->
@@ -32,13 +35,15 @@
         <div class="col-xs-12 col-sm-6">
           <img class="img-circle" src="assets/img/jacob.jpg">
           <h2>Jacob Malana</h2>
-          <p>Student Ministries Pastor</p>
+          <p class="text-muted">Student Ministries Pastor</p>
+          <a href="mailto:carrie@palmcanyon.org">carrie@palmcanyon.org</a>
           <p><a class="btn btn-info" data-target="#jacobModal" role="button" data-toggle="modal">More About Jacob &raquo;</a></p>
         </div><!-- /.span4 -->
         <div class="col-xs-12 col-sm-6">
           <img class="img-circle" src="assets/img/leslie.jpg">
           <h2>Leslie Hitchcock</h2>
-          <p>Accountant, Office Manager & Assistant to Lead Pastor</p>
+          <p class="text-muted">Accountant, Office Manager & Assistant to Lead Pastor</p>
+          <a href="mailto:leslie@palmcanyon.org">leslie@palmcanyon.org</a>
           <p><a class="btn btn-info" data-target="#leslieModal" role="button" data-toggle="modal">More About Leslie &raquo;</a></p>
         </div><!-- /.span4 -->
       </div><!-- /.row -->

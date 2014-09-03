@@ -26,17 +26,18 @@
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">I'm New <i class="fa fa-angle-double-down"></i></a>
                   <ul class="dropdown-menu">
                     <li><a href="adult-services.php">When are the services?</a></li>
-                    <li><a href="adult-services.php#length">How long do services last?</a></li>
-                    <li><a href="adult-services.php#length">What do I wear?</a></li>
-                    <li><a href="adult-services.php#length">What's the music like?</a></li>
-                    <li><a href="adult-services.php#kids">What do you have for kids?</a></li>
-                    <li><a href="adult-services.php#kids">What do you have for teens?</a></li>
+                    <li><a href="adult-service-length.php">How long do services last?</a></li>
+                    <li><a href="adult-service-clothes.php">What do I wear?</a></li>
+                    <li><a href="adult-service-music.php">What's the music like?</a></li>
+                    <li><a href="adult-service-kids.php">What do you have for kids?</a></li>
+                    <li><a href="adult-services-teens.php">What do you have for teens?</a></li>
                     <li><a href="about-us.php">What do you believe?</a></li>
                     <li><a href="about-us.php#vision">What's your vision?</a></li>
                     <li><a href="about-us.php#vision">What are your core values?</a></li>
                     <li><a href="about-us.php#bill">Who is Lead Pastor Bill Martin?</a></li>
                     <li><a href="our-staff.php">Who's the staff leadership team?</a></li>
-                    <li><a href="contact-us.php">Can you give me directions?</a></li>
+                    <li><a href="directions.php">Can you give me directions?</a></li>
+                    <li><a href="church-times.php">When is the church office open?</a></li>
                   </ul>
                 </li>
                  <li class="dropdown">
