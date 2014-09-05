@@ -30,7 +30,7 @@
                     <li><a href="adult-service-clothes.php">What do I wear?</a></li>
                     <li><a href="adult-service-music.php">What's the music like?</a></li>
                     <li><a href="adult-service-kids.php">What do you have for kids?</a></li>
-                    <li><a href="adult-services-teens.php">What do you have for teens?</a></li>
+                    <li><a href="adult-service-teens.php">What do you have for teens?</a></li>
                     <li><a href="about-us.php">What do you believe?</a></li>
                     <li><a href="about-us.php#vision">What's your vision?</a></li>
                     <li><a href="about-us.php#vision">What are your core values?</a></li>

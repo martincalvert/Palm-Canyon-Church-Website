@@ -13,6 +13,7 @@
         It’s casual so "come as you are."  No need to dress up unless you want to.
       </p>
       </div>
+    </div>
       <!-- START THE FEATURETTES -->
 
       <hr class="featurette-divider">

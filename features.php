@@ -1,11 +1,11 @@
-     <? $r=rand(1,2) ?>
+    <? $r=rand(1,2) ?>
 
      <? if ($r==1): ?>
       <div class="row featurette">
         <div class="col-sm-5 col-xs-12">
           <img class="featurette-image img-responsive" src="assets/img/fb.png" alt="Generic placeholder image">
         </div>
-        <div class="col-sm-7 col-xs-12">
+        <div class="col-sm-6 col-sm-offset-1 col-xs-12">
           <h2 class="featurette-heading">PC3 On Facebook<span class="muted"> Like Palm Canyon Church on Facebook!</span></h2>
           <a class="btn btn-primary" href="http://www.facebook.com/palmcanyonchurch"><i class="fa fa-facebook-square"></i> Facebook Page</a>
         </div>

@@ -11,6 +11,7 @@
       <div class="col-xs-12">
       <p>75-90 minutes.</p>
       </div>
+    </div>
       <!-- START THE FEATURETTES -->
 
       <hr class="featurette-divider">

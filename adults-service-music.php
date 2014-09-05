@@ -11,6 +11,7 @@
       <div class="col-xs-12">
       <p>Engaging, heart-felt rock music that tends to be on the loud side.</p>
       </div>
+    </div>
       <!-- START THE FEATURETTES -->
 
       <hr class="featurette-divider">
