@@ -73,7 +73,6 @@ Palm Canyon Church exists to reach people far from perfect and teach them to fol
     <hr class="featurette-divider" id="bill">
     <div class="row">
     <div class="col-xs-12">
-    <h1 class="text-center">Who is Lead Pastor Bill Martin?</h1>
     <p>Bill Martin became the lead pastor of Palm Canyon Church in 2000. Bill is a gifted communicator and teacher, passionate about speaking the truth as plainly as possible so that everyone can understand the Bible’s message and know what to do with it. God has given him a vision and a passion for helping people meet Jesus, and each week he shares God’s Word and its practical application in our daily lives. Bill and his wife Cindy live in Moreno Valley, California. They have a grown son who lives in Modesto, California and a married daughter who lives in Moreno Valley, California.</p>
 </div>
 </div>

@@ -71,10 +71,6 @@
 	 </div>
 	</div>
 
-
-<hr class="featurette-divider">
- <? include 'feture_1.php' ?>
-
       <hr class="featurette-divider">
 
       <? include 'footer.php' ?>

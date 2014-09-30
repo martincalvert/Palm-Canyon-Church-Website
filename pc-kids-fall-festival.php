@@ -18,8 +18,6 @@
     </div>
       <!-- START THE FEATURETTES -->
       <hr class="featurette-divider">
-      <? include 'features.php' ?>
-      <hr class="featurette-divider">
       <div id="awanaModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   		<div class="modal-body text-center">
         <iframe width="640" height="360" src="http://www.youtube.com/embed/yvEWk3b7Clc" frameborder="0" allowfullscreen></iframe>

@@ -17,8 +17,6 @@
       </div><!-- /.row -->
       <!-- START THE FEATURETTES -->
       <hr class="featurette-divider">
-      <? include 'features.php' ?>
-      <hr class="featurette-divider">
       <div id="bibleModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   		<div class="modal-body text-center">
         <iframe width="640" height="360" src="http://youtu.be/97YQAoCjpcs" frameborder="0" allowfullscreen></iframe>

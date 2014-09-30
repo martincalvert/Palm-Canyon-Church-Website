@@ -25,8 +25,6 @@
       <!-- START THE FEATURETTES -->
 
       <hr class="featurette-divider">
-	<? include 'features.php' ?>
-      <hr class="featurette-divider">
       <div id="awanaModal" class="modal" tabindex="-1" role="dialog" aria-labelledby="1Label" aria-hidden="true">
 	<div class="modal-dialog modal-lg">
 	  <div class="modal-content">

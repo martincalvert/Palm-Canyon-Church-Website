@@ -1,4 +1,4 @@
-    <? $r=rand(1,2) ?>
+    <? $r=rand(1,1) ?>
 
      <? if ($r==1): ?>
       <div class="row featurette">

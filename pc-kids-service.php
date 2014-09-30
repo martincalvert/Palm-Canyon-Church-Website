@@ -33,8 +33,6 @@
       </div><!-- /.row -->
       <!-- START THE FEATURETTES -->
       <hr class="featurette-divider">
-      <? include 'features.php' ?>
-      <hr class="featurette-divider">
 	<? include 'footer.php' ?>
 <script>
 document.title+=" PC Kids Services"

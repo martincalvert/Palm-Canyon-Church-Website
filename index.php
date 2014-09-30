@@ -16,7 +16,7 @@
           <img class="img-responsive" src="assets/img/current.jpg" alt="Current series image">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Current Series!</h1>
+              <h1>Current Sunday Morning Series!</h1>
               <p class=""></p>
             </div>
           </div>
@@ -39,10 +39,6 @@
 
 <div class="container marketing">
 
-      <hr class="featurette-divider">
-       <? include 'features.php' ?>
-
-      <hr class="featurette-divider">
       <!-- /END THE FEATURETTES -->
 <? include 'footer.php' ?>
 <script>
