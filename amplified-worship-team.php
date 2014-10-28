@@ -14,7 +14,7 @@
         </div><!-- /. col-sm-6 col-xs-12 -->
 
         <div class="col-sm-4 col-xs-12">
-          <img class="img-circle" src="assets/img/cindy2.jpg">
+          <img class="img-circle" src="assets/img/cindy.jpg">
           <h2>Cindy Martin</h2>
           <p>Vocals & Keys</p>
           <p><a class="btn btn-info" data-target="#cindyModal"  data-toggle="modal">More About Cindy <i class="fa fa-expand"></i></a></p>
@@ -37,13 +37,13 @@
         </div><!-- /. col-sm-6 col-xs-12 -->
 
         <div class=" col-sm-4 col-xs-12">
-          <img class="img-circle" src="assets/img/paul.jpg">
+          <img class="img-circle" src="assets/img/paulw.jpg">
           <h2>Paul Witt</h2>
           <p>Electric Guitar</p>
           <p><a class="btn btn-info" data-target="#paulModal"  data-toggle="modal">More About Paul <i class="fa fa-expand"></i></a></p>
         </div><!-- /. col-sm-6 col-xs-12 -->
         <div class=" col-sm-4 col-xs-12">
-          <img class="img-circle" src="assets/img/leslie2.jpg">
+          <img class="img-circle" src="assets/img/leslie_amp.jpg">
           <h2>Leslie Hitchcock</h2>
           <p>Vocals & Keys</p>
           <p><a class="btn btn-info" data-target="#leslieModal"  data-toggle="modal">More About Leslie <i class="fa fa-expand"></i></a></p>
@@ -59,7 +59,7 @@
           <p><a class="btn btn-info" data-target="#joanModal"  data-toggle="modal">More About Joan <i class="fa fa-expand"></i></a></p>
         </div><!-- /. col-sm-6 col-xs-12 -->
         <div class=" col-sm-4 col-xs-12">
-          <img class="img-circle" src="assets/img/art.png">
+          <img class="img-circle" src="assets/img/art.jpg">
           <h2>Art Giovannini</h2>
           <p>Sound Operator</p>
           <p><a class="btn btn-info" data-target="#artModal"  data-toggle="modal">More About Art <i class="fa fa-expand"></i></a></p>
@@ -75,7 +75,7 @@
 
       <div class="row text-center">
       <div class=" col-sm-4 col-xs-12">
-          <img class="img-circle" src="assets/img/kay.png">
+          <img class="img-circle" src="assets/img/kay.jpg">
           <h2>Kay Thomas</h2>
           <p>Vocals</p>
           <p><a class="btn btn-info" data-target="#kayModal"  data-toggle="modal">More About Kay <i class="fa fa-expand"></i></a></p>
@@ -152,13 +152,10 @@
     		<h3 class="text-center">Leslie Hitchcock<span class="muted"> Vocals & Keys</span></h3>
   		</div>
 
-  		<div class="modal-body"><img class="img-polaroid" src="assets/img/leslie.jpg">
-        <img class="img-polaroid" src="assets/img/leslie2.jpg">
+  		<div class="modal-body">
+        <img class="img-polaroid" src="assets/img/leslie_amp.jpg">
 
     		<p><b>Favorite Song:</b> Arms Of Love & Majesty</p>
-            <p><strong>Favorite Bible Verses:</strong> Psalm 28:7 & Psalm 98</p>
-            <p><strong>Favorite Band:</strong> Ginny Owens & Third Day</p>
-            <p><strong>Favorite Genre:</strong> Country</p>
             <p><strong>Occupation:</strong> Bookkeeper/Business Administrator for Palm Canyon Church</p>
             <p><strong>3 random fun facts:</strong><br/>
             I met my husband at the high school youth group here at Palm Canyon.<br/>
@@ -178,9 +175,6 @@
   		</div>
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/braden.jpg">
     		<p><b>Favorite Song:</b> Light My Way & One Way</p>
-        <p><strong>Favorite Bible Verses:</strong> 2nd Samuel 22::33</p>
-        <p><strong>Favorite Band:</strong> Hillsong United & Phil Whickam</p>
-        <p><strong>Favorite Genre:</strong> Country</p>
         <p><strong>Occupation:</strong> Full time student. Finishing up his last year of Doctorate in Physical Therapy at Loma Linda University</p>
         <p><strong>3 random fun facts:</strong><br/>
         Die hard, lifelong Angel fan<br/>
@@ -199,9 +193,6 @@
   		</div>
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/steph.jpg">
     		<p><b>Favorite Song:</b> Revelation Song</p>
-            <p><strong>Favorite Bible Verses:</strong> Proverbs 3:5-6</p>
-            <p><strong>Favorite Band:</strong> Casting Crowns</p>
-            <p><strong>Favorite Genre:</strong> Country</p>
             <p><strong>Occupation:</strong> RN at Redlands Community hospital, "Direct Effect" leader at PC3, queen of the drama ministry</p>
   		</div>
                 </div>
@@ -215,9 +206,6 @@
   		</div>
   		<div class="modal-body"><img class="img-polaroid" src="assets/img/adam.png">
     		<p><b>Favorite Song:</b> Anything Beatles</p>
-        <p><strong>Favorite Bible Verses:</strong> Ephesians 5:22</p>
-        <p><strong>Favorite Band:</strong> The Beatles</p>
-        <p><strong>Favorite Genre:</strong> classic rock</p>
         <p><strong>Occupation:</strong> Elementary Band Teacher for Jurupa Unified School District</p>
         <p><strong>3 random fun facts:</strong><br/>
         Loves his smoking hot wife<br/>
@@ -235,11 +223,8 @@
     		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     		<h3 class="text-center">Paul Witt<span class="muted"> Electric Guitar</span></h3>
   		</div>
-  		<div class="modal-body"><img class="img-polaroid" src="assets/img/paul.jpg">
+  		<div class="modal-body"><img class="img-polaroid" src="assets/img/paulw.jpg">
     		<p><b>Favorite Song:</b> It Is Well</p>
-            <p><strong>Favorite Bible Verses:</strong> John 15:5</p>
-            <p><strong>Favorite Band:</strong> Kutless</p>
-            <p><strong>Favorite Genre:</strong> Christian Rock</p>
             <p><strong>Occupation:</strong> Air National Guard</p>
             <p><strong>3 random fun facts:</strong><br/>
             He's been to more countries than Adam<br/>
@@ -257,13 +242,8 @@
     		<h3  class="text-center">Cindy Martin <span class="muted"> Vocals & Keys</span></h3>
   		</div>
   		<div class="modal-body">
-        <img class="img-polaroid" src="assets/img/cindy2.jpg">
-
         	<img class="img-polaroid" src="assets/img/cindy.jpg">
     		<p><strong>Favorite Song:</strong> Endless Praise</p>
-        <p><strong>Favorite Bible Verses:</strong> Psalm 28:7</p>
-        <p><strong>Favorite Band:</strong> Hillsong United</p>
-        <p><strong>Favorite Genre:</strong> Jazz & R&B </p>
         <p><strong>Occupation:</strong> Children's Ministry & Awana Leader </p>
         <p><strong>3 random fun facts:</strong><br/>
         She love random facts<br/>
@@ -283,9 +263,6 @@
   		<div class="modal-body">
         <img class="img-polaroid" src="assets/img/carrie.jpg">
     		<p><strong>Favorite Song -</strong> All He Says I Am- Gateway Worship</p>
-            <p><strong>Favorite Bible Verses -</strong> Psalm 59:16 & Psalm 150:5</p>
-            <p><strong>Favorite Band -</strong> Hillsong United</p>
-            <p><strong>Favorite Genre -</strong> Country & Pop</p>
             <p><strong>Occupation -</strong> Creative Arts Director and private lesson instructor </p>
             <p><strong>3 random fun facts:</strong><br/>
             Loves her smoking hot husband<br/>
@@ -305,9 +282,6 @@
   		<div class="modal-body">
         	<img class="img-polaroid" src="assets/img/jonathan.jpg">
     		<p><strong>Favorite Song:</strong> Shout Unto God</p>
-            <p><strong>Favorite Bible Verses:</strong> Philippians 4:6-7</p>
-            <p><strong>Favorite Band:</strong> Hillsong United, Radiohead, & Thrice</p>
-            <p><strong>Favorite Genre:</strong> Rock & Indie </p>
             <p><strong>Occupation:</strong> Middle School English teacher, Life Group Leader, & PC3 Board Member </p>
   		</div>
     </div>
@@ -322,8 +296,6 @@
   		<div class="modal-body">
         	<img class="img-polaroid" src="assets/img/joan.jpg">
     		<p><strong>Favorite Song:</strong> Thrive by Casting Crowns</p>
-            <p><strong>Favorite Bible Verses:</strong> Corinthians 15:58</p>
-            <p><strong>Favorite Band:</strong> Casting Crowns, groups that challenge their listeners to make a difference.</p>
             <p><strong>Occupation:</strong> Elementary School Principal</p>
             <p><strong>3 random fun facts:</strong><br/>
             I grew up in Quito, Ecuador<br/>
@@ -361,9 +333,6 @@
   		<div class="modal-body">
         	<img class="img-polaroid" src="assets/img/marksyn.png">
     		<p><strong>Favorite Song:</strong> Obsession - Delirious</p>
-            <p><strong>Favorite Bible Verses:</strong> Jeremiah 29:11</p>
-            <p><strong>Favorite Band:</strong> Thrice, Jars Of Clay, Third Eye Blind, & Jimmy Eat World</p>
-            <p><strong>Favorite Genre:</strong> Christian Worship</p>
             <p><strong>Occupation:</strong> Middle School Language Arts and Reading Intervention Teacher</p>
   		</div>
     </div>
@@ -378,9 +347,6 @@
   		<div class="modal-body">
         	<img class="img-polaroid" src="assets/img/katie.jpg">
     		<p><strong>Favorite Song:</strong> Grace will be my song by Steve fee</p>
-            <p><strong>Favorite Bible Verses:</strong> Psalms 62:1</p>
-            <p><strong>Favorite Band:</strong> Jeremy Camp</p>
-            <p><strong>Favorite Genre:</strong> Anything you can sing to</p>
             <p><strong>Occupation:</strong> Pre-School Teacher</p>
             <p><strong>3 random fun facts:</strong><br/>
             Angels fan<br/>
@@ -399,9 +365,6 @@
   		<div class="modal-body">
         <img class="img-polaroid" src="assets/img/john2.jpg">
     		<p><strong>Favorite Song:</strong> Everlasting God</p>
-            <p><strong>Favorite Bible Verses:</strong> Lots</p>
-            <p><strong>Favorite Band:</strong> Steely Dan & Hillsong</p>
-            <p><strong>Favorite Genre:</strong> Fusion jazz</p>
             <p><strong>Occupation:</strong> Retired</p>
   		</div>
     </div>
@@ -416,9 +379,6 @@
   		<div class="modal-body">
         	<img class="img-polaroid" src="assets/img/steve.jpg">
     		<p><strong>Favorite Song:</strong> Gloria - Matt Redman</p>
-            <p><strong>Favorite Bible Verses:</strong> Ephesians 5:25</p>
-            <p><strong>Favorite Band:</strong> Skillet</p>
-            <p><strong>Favorite Genre:</strong> Classical Orchestration</p>
             <p><strong>Occupation:</strong> Plumbing Contractor</p>
   		</div>
     </div>
@@ -468,9 +428,6 @@
   		<div class="modal-body">
         	<img class="img-polaroid" src="assets/img/kay.jpg">
     		<p><strong>Favorite worship song -</strong> He’s Able by Deitrick Haddon</p>
-        <p><strong>Favorite bible verse - </strong>Psalm 23, Psalm 19:14</p>
-        <p><strong>Favorite band/group/artist- </strong>William McDowell, Kirk Franklin, Jesus Culture, Fred Hammond, LeCrae, Tedashii, William Murphy, Tamala Mann, Tasha Cobb, Anita Wilson, Mercy Me, Hillsong, Elevation Worship, pretty much all traditional gospel </p>
-        <p><strong>Favorite genre -</strong>Gospel, Christian, Christian Rap, Jazz (Traditional, Latin), Cuban Salsa, Country </strong></p>
         <p><strong>Occupation -</strong>Administrative assistant, Clinical Operations for Visiting Nurse Association</p>
         <p><strong>3 random fun facts:</strong><br/>
         I LOVE eating cheetos and bananas<br/>

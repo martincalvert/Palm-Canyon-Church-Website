@@ -32,6 +32,10 @@
 <b>Students: ImpACT Sunday Morning</b><br>
 (9th-12th Grade)<br>
 9a
+
+<b>Project 412</b><br>
+(6th-12th Grade)<br>
+5p-7p
 </div>
 <div class="col-xs-12 col-sm-3">
 <h3>Tuesday Services</h3>
