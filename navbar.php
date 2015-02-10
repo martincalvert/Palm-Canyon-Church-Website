@@ -52,8 +52,6 @@
                     <li><a href="amplified-worship-team.php">Amplified Worship</a></li>
                     <li><a href="adult-sermons.php">Sermons</a></li>
                     <li><a href="volunteering-opportunities.php">Volunteering</a></li>
-
-                 <li><a href="tithing-and-donations.php">Giving</a></li>
                   </ul>
                 </li>
                  <li class="dropdown">
@@ -83,6 +81,7 @@
                 </li>
                  <li><a href="upcoming-events.php">Events</a></li>
                  <li><a href="missionary-opportunities.php">Missions</a></li>
+                 <li><a href="giving.php">Giving</a></li>
               </ul>
             </div><!--/.nav-collapse -->
           </div><!-- /.navbar-inner -->

@@ -133,7 +133,7 @@
             <img class="img-circle"  src="assets/img/daniel.jpg">
             <h2>Daniel Potts</h2>
             <p>Drums</p>
-            <p><a class="btn btn-info" data-target="#danielModal"  data-toggle="modal">More About Abraham <i class="fa fa-expand"></i></a></p>
+            <p><a class="btn btn-info" data-target="#danielModal"  data-toggle="modal">More About Daniel <i class="fa fa-expand"></i></a></p>
           </div>
       </div>
 

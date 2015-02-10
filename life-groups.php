@@ -2,7 +2,7 @@
 <html>
   <? include 'head.php' ?>
 <body>
- <? include 'navbar.php'?>
+ <? include 'navbar.php' ?>
     <div class="container marketing space color">
     <div class="col-xs-12 text-center"><h1>Life Groups</h1></div>
       <div class="row">
@@ -52,6 +52,14 @@
         </tr>
         <tr>
         <td>Wednesday</td>
+        <td><a href="#" role="button" data-toggle="modal">Brandi Plata & Becca Calvert</a></td>
+        <td>Ages 18-24</td>
+        <td>13115 Kentland Ln.,<br> Moreno Valley, 92553</td>
+        <td>951-902-9454 or 951-323-1049</td>
+        <td>7pm | Weekly</td>
+        </tr>
+        <tr>
+        <td>Wednesday</td>
         <td><a href="#5" role="button" data-toggle="modal">John & Audrey Loera</a></td>
         <td>8830 Greenlawn St.,<br> Riverside, 92508</td>
         <td>951-656-4589</td>
@@ -81,7 +89,7 @@
         <tr>
         <td>Friday</td>
         <td><a href="#7" role="button" data-toggle="modal">Kathy Potts</a></td>
-        <td>13115 Kentl& Ln.,<br> Moreno Valley, 92553</td>
+        <td>13115 Kentland Ln.,<br> Moreno Valley, 92553</td>
         <td>951-242-1800</td>
         <td>7pm | Every Other Week</td>
         </tr>

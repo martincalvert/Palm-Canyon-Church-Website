@@ -19,12 +19,13 @@
         <div class="col-sm-6 col-xs-12">
         <h3>Local Ministry Oppurtunities</h3>
         <ul>
-        <li>Emma Tautolo [Athletes In Action. Arizona State University] to financially support Emma go to <a href="http://www.cru.org">www.cru.org</a> and click "give" and type Emma Tautolo.</li>
-        <li>Habitat for Humanity</li>
-        <li><a data-target="#cwfbModal" role="button" data-toggle="modal">City Wide Food Bank</a></li>
-        <li>VBS (Vacation Bible School)</li>
-        <li>Fall Festival</li>
-        <li>iServe Events! These come and go so keep a eye out for them in the upcoming events!</li>
+          <li>Choice Market (Food Distrubution & Education)</li>
+          <li>Emma Tautolo [Athletes In Action. Arizona State University] to financially support Emma go to <a href="http://www.cru.org">www.cru.org</a> and click "give" and type Emma Tautolo.</li>
+          <li>Habitat for Humanity</li>
+          <li><a data-target="#cwfbModal" role="button" data-toggle="modal">City Wide Food Bank</a></li>
+          <li>VBS (Vacation Bible School)</li>
+          <li>Fall Festival</li>
+          <li>iServe Events! These come and go so keep a eye out for them in the upcoming events!</li>
         </ul>
         </p>
         </div>
@@ -35,7 +36,7 @@
       <hr class="featurette-divider">
        <? include 'features.php' ?>
       <hr class="featurette-divider">
-      
+
       <div id="cwfbModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
        <div class="modal-dialog modal-lg">
 	 <div class="modal-content">
